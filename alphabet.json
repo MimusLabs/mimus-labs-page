@@ -10,190 +10,814 @@
         {
           "group": "vowels",
           "items": [
-            { "character": "あ", "romaji": "a" },
-            { "character": "い", "romaji": "i" },
-            { "character": "う", "romaji": "u" },
-            { "character": "え", "romaji": "e" },
-            { "character": "お", "romaji": "o" }
+            {
+              "character": "あ",
+              "romaji": "a",
+              "example": "あめ",
+              "read": "ame",
+              "meaning": "rain"
+            },
+            {
+              "character": "い",
+              "romaji": "i",
+              "example": "いぬ",
+              "read": "inu",
+              "meaning": "dog"
+            },
+            {
+              "character": "う",
+              "romaji": "u",
+              "example": "うみ",
+              "read": "umi",
+              "meaning": "sea"
+            },
+            {
+              "character": "え",
+              "romaji": "e",
+              "example": "えき",
+              "read": "eki",
+              "meaning": "station"
+            },
+            {
+              "character": "お",
+              "romaji": "o",
+              "example": "おちゃ",
+              "read": "ocha",
+              "meaning": "tea"
+            }
           ]
         },
         {
           "group": "k",
           "items": [
-            { "character": "か", "romaji": "ka" },
-            { "character": "き", "romaji": "ki" },
-            { "character": "く", "romaji": "ku" },
-            { "character": "け", "romaji": "ke" },
-            { "character": "こ", "romaji": "ko" }
+            {
+              "character": "か",
+              "romaji": "ka",
+              "example": "かさ",
+              "read": "kasa",
+              "meaning": "umbrella"
+            },
+            {
+              "character": "き",
+              "romaji": "ki",
+              "example": "きもの",
+              "read": "kimono",
+              "meaning": "kimono"
+            },
+            {
+              "character": "く",
+              "romaji": "ku",
+              "example": "くるま",
+              "read": "kuruma",
+              "meaning": "car"
+            },
+            {
+              "character": "け",
+              "romaji": "ke",
+              "example": "けいたい",
+              "read": "keitai",
+              "meaning": "mobile phone"
+            },
+            {
+              "character": "こ",
+              "romaji": "ko",
+              "example": "こども",
+              "read": "kodomo",
+              "meaning": "child"
+            }
           ]
         },
         {
           "group": "s",
           "items": [
-            { "character": "さ", "romaji": "sa" },
-            { "character": "し", "romaji": "shi" },
-            { "character": "す", "romaji": "su" },
-            { "character": "せ", "romaji": "se" },
-            { "character": "そ", "romaji": "so" }
+            {
+              "character": "さ",
+              "romaji": "sa",
+              "example": "さくら",
+              "read": "sakura",
+              "meaning": "cherry blossom"
+            },
+            {
+              "character": "し",
+              "romaji": "shi",
+              "example": "しんぶん",
+              "read": "shinbun",
+              "meaning": "newspaper"
+            },
+            {
+              "character": "す",
+              "romaji": "su",
+              "example": "すし",
+              "read": "sushi",
+              "meaning": "sushi"
+            },
+            {
+              "character": "せ",
+              "romaji": "se",
+              "example": "せんせい",
+              "read": "sensei",
+              "meaning": "teacher"
+            },
+            {
+              "character": "そ",
+              "romaji": "so",
+              "example": "そら",
+              "read": "sora",
+              "meaning": "sky"
+            }
           ]
         },
         {
           "group": "t",
           "items": [
-            { "character": "た", "romaji": "ta" },
-            { "character": "ち", "romaji": "chi" },
-            { "character": "つ", "romaji": "tsu" },
-            { "character": "て", "romaji": "te" },
-            { "character": "と", "romaji": "to" }
+            {
+              "character": "た",
+              "romaji": "ta",
+              "example": "たべもの",
+              "read": "tabemono",
+              "meaning": "food"
+            },
+            {
+              "character": "ち",
+              "romaji": "chi",
+              "example": "ちず",
+              "read": "chizu",
+              "meaning": "map"
+            },
+            {
+              "character": "つ",
+              "romaji": "tsu",
+              "example": "つき",
+              "read": "tsuki",
+              "meaning": "moon"
+            },
+            {
+              "character": "て",
+              "romaji": "te",
+              "example": "てがみ",
+              "read": "tegami",
+              "meaning": "letter"
+            },
+            {
+              "character": "と",
+              "romaji": "to",
+              "example": "ともだち",
+              "read": "tomodachi",
+              "meaning": "friend"
+            }
           ]
         },
         {
           "group": "n",
           "items": [
-            { "character": "な", "romaji": "na" },
-            { "character": "に", "romaji": "ni" },
-            { "character": "ぬ", "romaji": "nu" },
-            { "character": "ね", "romaji": "ne" },
-            { "character": "の", "romaji": "no" }
+            {
+              "character": "な",
+              "romaji": "na",
+              "example": "なつ",
+              "read": "natsu",
+              "meaning": "summer"
+            },
+            {
+              "character": "に",
+              "romaji": "ni",
+              "example": "にほん",
+              "read": "nihon",
+              "meaning": "Japan"
+            },
+            {
+              "character": "ぬ",
+              "romaji": "nu",
+              "example": "ぬいぐるみ",
+              "read": "nuigurumi",
+              "meaning": "stuffed toy"
+            },
+            {
+              "character": "ね",
+              "romaji": "ne",
+              "example": "ねこ",
+              "read": "neko",
+              "meaning": "cat"
+            },
+            {
+              "character": "の",
+              "romaji": "no",
+              "example": "のみもの",
+              "read": "nomimono",
+              "meaning": "drink"
+            }
           ]
         },
         {
           "group": "h",
           "items": [
-            { "character": "は", "romaji": "ha" },
-            { "character": "ひ", "romaji": "hi" },
-            { "character": "ふ", "romaji": "fu" },
-            { "character": "へ", "romaji": "he" },
-            { "character": "ほ", "romaji": "ho" }
+            {
+              "character": "は",
+              "romaji": "ha",
+              "example": "はな",
+              "read": "hana",
+              "meaning": "flower"
+            },
+            {
+              "character": "ひ",
+              "romaji": "hi",
+              "example": "ひこうき",
+              "read": "hikouki",
+              "meaning": "airplane"
+            },
+            {
+              "character": "ふ",
+              "romaji": "fu",
+              "example": "ふゆ",
+              "read": "fuyu",
+              "meaning": "winter"
+            },
+            {
+              "character": "へ",
+              "romaji": "he",
+              "example": "へや",
+              "read": "heya",
+              "meaning": "room"
+            },
+            {
+              "character": "ほ",
+              "romaji": "ho",
+              "example": "ほん",
+              "read": "hon",
+              "meaning": "book"
+            }
           ]
         },
         {
           "group": "m",
           "items": [
-            { "character": "ま", "romaji": "ma" },
-            { "character": "み", "romaji": "mi" },
-            { "character": "む", "romaji": "mu" },
-            { "character": "め", "romaji": "me" },
-            { "character": "も", "romaji": "mo" }
+            {
+              "character": "ま",
+              "romaji": "ma",
+              "example": "まち",
+              "read": "machi",
+              "meaning": "town"
+            },
+            {
+              "character": "み",
+              "romaji": "mi",
+              "example": "みず",
+              "read": "mizu",
+              "meaning": "water"
+            },
+            {
+              "character": "む",
+              "romaji": "mu",
+              "example": "むし",
+              "read": "mushi",
+              "meaning": "insect"
+            },
+            {
+              "character": "め",
+              "romaji": "me",
+              "example": "め",
+              "read": "me",
+              "meaning": "eye"
+            },
+            {
+              "character": "も",
+              "romaji": "mo",
+              "example": "もり",
+              "read": "mori",
+              "meaning": "forest"
+            }
           ]
         },
         {
           "group": "y",
           "items": [
-            { "character": "や", "romaji": "ya" },
-            { "character": "ゆ", "romaji": "yu" },
-            { "character": "よ", "romaji": "yo" }
+            {
+              "character": "や",
+              "romaji": "ya",
+              "example": "やま",
+              "read": "yama",
+              "meaning": "mountain"
+            },
+            {
+              "character": "ゆ",
+              "romaji": "yu",
+              "example": "ゆき",
+              "read": "yuki",
+              "meaning": "snow"
+            },
+            {
+              "character": "よ",
+              "romaji": "yo",
+              "example": "よる",
+              "read": "yoru",
+              "meaning": "night"
+            }
           ]
         },
         {
           "group": "r",
           "items": [
-            { "character": "ら", "romaji": "ra" },
-            { "character": "り", "romaji": "ri" },
-            { "character": "る", "romaji": "ru" },
-            { "character": "れ", "romaji": "re" },
-            { "character": "ろ", "romaji": "ro" }
+            {
+              "character": "ら",
+              "romaji": "ra",
+              "example": "らいねん",
+              "read": "rainen",
+              "meaning": "next year"
+            },
+            {
+              "character": "り",
+              "romaji": "ri",
+              "example": "りんご",
+              "read": "ringo",
+              "meaning": "apple"
+            },
+            {
+              "character": "る",
+              "romaji": "ru",
+              "example": "るす",
+              "read": "rusu",
+              "meaning": "absence"
+            },
+            {
+              "character": "れ",
+              "romaji": "re",
+              "example": "れきし",
+              "read": "rekishi",
+              "meaning": "history"
+            },
+            {
+              "character": "ろ",
+              "romaji": "ro",
+              "example": "ろうそく",
+              "read": "rousoku",
+              "meaning": "candle"
+            }
           ]
         },
         {
           "group": "w",
           "items": [
-            { "character": "わ", "romaji": "wa" },
-            { "character": "を", "romaji": "wo" }
+            {
+              "character": "わ",
+              "romaji": "wa",
+              "example": "わたし",
+              "read": "watashi",
+              "meaning": "I/me"
+            },
+            {
+              "character": "を",
+              "romaji": "wo",
+              "example": "ほんをよむ",
+              "read": "hon wo yomu",
+              "meaning": "read a book"
+            }
           ]
         },
         {
           "group": "special",
           "items": [
-            { "character": "ん", "romaji": "n" }
+            {
+              "character": "ん",
+              "romaji": "n",
+              "example": "にほん",
+              "read": "nihon",
+              "meaning": "Japan"
+            }
           ]
         },
         {
           "group": "g (dakuten)",
           "items": [
-            { "character": "が", "romaji": "ga" },
-            { "character": "ぎ", "romaji": "gi" },
-            { "character": "ぐ", "romaji": "gu" },
-            { "character": "げ", "romaji": "ge" },
-            { "character": "ご", "romaji": "go" }
+            {
+              "character": "が",
+              "romaji": "ga",
+              "example": "がっこう",
+              "read": "gakkou",
+              "meaning": "school"
+            },
+            {
+              "character": "ぎ",
+              "romaji": "gi",
+              "example": "ぎんこう",
+              "read": "ginkou",
+              "meaning": "bank"
+            },
+            {
+              "character": "ぐ",
+              "romaji": "gu",
+              "example": "ぐうぜん",
+              "read": "guuzen",
+              "meaning": "coincidence"
+            },
+            {
+              "character": "げ",
+              "romaji": "ge",
+              "example": "げんき",
+              "read": "genki",
+              "meaning": "healthy/energetic"
+            },
+            {
+              "character": "ご",
+              "romaji": "go",
+              "example": "ごはん",
+              "read": "gohan",
+              "meaning": "rice/meal"
+            }
           ]
         },
         {
           "group": "z (dakuten)",
           "items": [
-            { "character": "ざ", "romaji": "za" },
-            { "character": "じ", "romaji": "ji" },
-            { "character": "ず", "romaji": "zu" },
-            { "character": "ぜ", "romaji": "ze" },
-            { "character": "ぞ", "romaji": "zo" }
+            {
+              "character": "ざ",
+              "romaji": "za",
+              "example": "ざっし",
+              "read": "zasshi",
+              "meaning": "magazine"
+            },
+            {
+              "character": "じ",
+              "romaji": "ji",
+              "example": "じかん",
+              "read": "jikan",
+              "meaning": "time"
+            },
+            {
+              "character": "ず",
+              "romaji": "zu",
+              "example": "ずっと",
+              "read": "zutto",
+              "meaning": "always"
+            },
+            {
+              "character": "ぜ",
+              "romaji": "ze",
+              "example": "ぜんぶ",
+              "read": "zenbu",
+              "meaning": "all"
+            },
+            {
+              "character": "ぞ",
+              "romaji": "zo",
+              "example": "ぞう",
+              "read": "zou",
+              "meaning": "elephant"
+            }
           ]
         },
         {
           "group": "d (dakuten)",
           "items": [
-            { "character": "だ", "romaji": "da" },
-            { "character": "ぢ", "romaji": "ji" },
-            { "character": "づ", "romaji": "zu" },
-            { "character": "で", "romaji": "de" },
-            { "character": "ど", "romaji": "do" }
+            {
+              "character": "だ",
+              "romaji": "da",
+              "example": "だいがく",
+              "read": "daigaku",
+              "meaning": "university"
+            },
+            {
+              "character": "ぢ",
+              "romaji": "ji",
+              "example": "はなぢ",
+              "read": "hanaji",
+              "meaning": "nosebleed"
+            },
+            {
+              "character": "づ",
+              "romaji": "zu",
+              "example": "つづく",
+              "read": "tsuzuku",
+              "meaning": "to continue"
+            },
+            {
+              "character": "で",
+              "romaji": "de",
+              "example": "でんわ",
+              "read": "denwa",
+              "meaning": "telephone"
+            },
+            {
+              "character": "ど",
+              "romaji": "do",
+              "example": "どうぶつ",
+              "read": "doubutsu",
+              "meaning": "animal"
+            }
           ]
         },
         {
           "group": "b (dakuten)",
           "items": [
-            { "character": "ば", "romaji": "ba" },
-            { "character": "び", "romaji": "bi" },
-            { "character": "ぶ", "romaji": "bu" },
-            { "character": "べ", "romaji": "be" },
-            { "character": "ぼ", "romaji": "bo" }
+            {
+              "character": "ば",
+              "romaji": "ba",
+              "example": "ばしょ",
+              "read": "basho",
+              "meaning": "place"
+            },
+            {
+              "character": "び",
+              "romaji": "bi",
+              "example": "びじゅつ",
+              "read": "bijutsu",
+              "meaning": "art"
+            },
+            {
+              "character": "ぶ",
+              "romaji": "bu",
+              "example": "ぶんか",
+              "read": "bunka",
+              "meaning": "culture"
+            },
+            {
+              "character": "べ",
+              "romaji": "be",
+              "example": "べんきょう",
+              "read": "benkyou",
+              "meaning": "study"
+            },
+            {
+              "character": "ぼ",
+              "romaji": "bo",
+              "example": "ぼうし",
+              "read": "boushi",
+              "meaning": "hat"
+            }
           ]
         },
         {
           "group": "p (handakuten)",
           "items": [
-            { "character": "ぱ", "romaji": "pa" },
-            { "character": "ぴ", "romaji": "pi" },
-            { "character": "ぷ", "romaji": "pu" },
-            { "character": "ぺ", "romaji": "pe" },
-            { "character": "ぽ", "romaji": "po" }
+            {
+              "character": "ぱ",
+              "romaji": "pa",
+              "example": "ぱん",
+              "read": "pan",
+              "meaning": "bread"
+            },
+            {
+              "character": "ぴ",
+              "romaji": "pi",
+              "example": "ぴあの",
+              "read": "piano",
+              "meaning": "piano"
+            },
+            {
+              "character": "ぷ",
+              "romaji": "pu",
+              "example": "ぷれぜんと",
+              "read": "purezento",
+              "meaning": "present"
+            },
+            {
+              "character": "ぺ",
+              "romaji": "pe",
+              "example": "ぺん",
+              "read": "pen",
+              "meaning": "pen"
+            },
+            {
+              "character": "ぽ",
+              "romaji": "po",
+              "example": "ぽけっと",
+              "read": "poketto",
+              "meaning": "pocket"
+            }
           ]
         },
         {
           "group": "combination (ya)",
           "items": [
-            { "character": "きゃ", "romaji": "kya" },
-            { "character": "きゅ", "romaji": "kyu" },
-            { "character": "きょ", "romaji": "kyo" },
-            { "character": "しゃ", "romaji": "sha" },
-            { "character": "しゅ", "romaji": "shu" },
-            { "character": "しょ", "romaji": "sho" },
-            { "character": "ちゃ", "romaji": "cha" },
-            { "character": "ちゅ", "romaji": "chu" },
-            { "character": "ちょ", "romaji": "cho" },
-            { "character": "にゃ", "romaji": "nya" },
-            { "character": "にゅ", "romaji": "nyu" },
-            { "character": "にょ", "romaji": "nyo" },
-            { "character": "ひゃ", "romaji": "hya" },
-            { "character": "ひゅ", "romaji": "hyu" },
-            { "character": "ひょ", "romaji": "hyo" },
-            { "character": "みゃ", "romaji": "mya" },
-            { "character": "みゅ", "romaji": "myu" },
-            { "character": "みょ", "romaji": "myo" },
-            { "character": "りゃ", "romaji": "rya" },
-            { "character": "りゅ", "romaji": "ryu" },
-            { "character": "りょ", "romaji": "ryo" },
-            { "character": "ぎゃ", "romaji": "gya" },
-            { "character": "ぎゅ", "romaji": "gyu" },
-            { "character": "ぎょ", "romaji": "gyo" },
-            { "character": "じゃ", "romaji": "ja" },
-            { "character": "じゅ", "romaji": "ju" },
-            { "character": "じょ", "romaji": "jo" },
-            { "character": "びゃ", "romaji": "bya" },
-            { "character": "びゅ", "romaji": "byu" },
-            { "character": "びょ", "romaji": "byo" },
-            { "character": "ぴゃ", "romaji": "pya" },
-            { "character": "ぴゅ", "romaji": "pyu" },
-            { "character": "ぴょ", "romaji": "pyo" }
+            {
+              "character": "きゃ",
+              "romaji": "kya",
+              "example": "きゃく",
+              "read": "kyaku",
+              "meaning": "guest"
+            },
+            {
+              "character": "きゅ",
+              "romaji": "kyu",
+              "example": "きゅうり",
+              "read": "kyuuri",
+              "meaning": "cucumber"
+            },
+            {
+              "character": "きょ",
+              "romaji": "kyo",
+              "example": "きょう",
+              "read": "kyou",
+              "meaning": "today"
+            },
+            {
+              "character": "しゃ",
+              "romaji": "sha",
+              "example": "しゃしん",
+              "read": "shashin",
+              "meaning": "photo"
+            },
+            {
+              "character": "しゅ",
+              "romaji": "shu",
+              "example": "しゅくだい",
+              "read": "shukudai",
+              "meaning": "homework"
+            },
+            {
+              "character": "しょ",
+              "romaji": "sho",
+              "example": "しょうゆ",
+              "read": "shouyu",
+              "meaning": "soy sauce"
+            },
+            {
+              "character": "ちゃ",
+              "romaji": "cha",
+              "example": "おちゃ",
+              "read": "ocha",
+              "meaning": "tea"
+            },
+            {
+              "character": "ちゅ",
+              "romaji": "chu",
+              "example": "ちゅうごく",
+              "read": "chuugoku",
+              "meaning": "China"
+            },
+            {
+              "character": "ちょ",
+              "romaji": "cho",
+              "example": "ちょっと",
+              "read": "chotto",
+              "meaning": "a little"
+            },
+            {
+              "character": "にゃ",
+              "romaji": "nya",
+              "example": "にゃんこ",
+              "read": "nyanko",
+              "meaning": "kitty"
+            },
+            {
+              "character": "にゅ",
+              "romaji": "nyu",
+              "example": "にゅうがく",
+              "read": "nyuugaku",
+              "meaning": "enrollment"
+            },
+            {
+              "character": "にょ",
+              "romaji": "nyo",
+              "example": "にょうぼう",
+              "read": "nyoubou",
+              "meaning": "wife"
+            },
+            {
+              "character": "ひゃ",
+              "romaji": "hya",
+              "example": "ひゃく",
+              "read": "hyaku",
+              "meaning": "hundred"
+            },
+            {
+              "character": "ひゅ",
+              "romaji": "hyu",
+              "example": "ひゅうが",
+              "read": "hyuuga",
+              "meaning": "sun facing"
+            },
+            {
+              "character": "ひょ",
+              "romaji": "hyo",
+              "example": "ひょう",
+              "read": "hyou",
+              "meaning": "leopard"
+            },
+            {
+              "character": "みゃ",
+              "romaji": "mya",
+              "example": "みゃく",
+              "read": "myaku",
+              "meaning": "pulse"
+            },
+            {
+              "character": "みゅ",
+              "romaji": "myu",
+              "example": "みゅーじっく",
+              "read": "myuujikku",
+              "meaning": "music"
+            },
+            {
+              "character": "みょ",
+              "romaji": "myo",
+              "example": "みょうじ",
+              "read": "myouji",
+              "meaning": "surname"
+            },
+            {
+              "character": "りゃ",
+              "romaji": "rya",
+              "example": "りゃくご",
+              "read": "ryakugo",
+              "meaning": "abbreviation"
+            },
+            {
+              "character": "りゅ",
+              "romaji": "ryu",
+              "example": "りゅう",
+              "read": "ryuu",
+              "meaning": "dragon"
+            },
+            {
+              "character": "りょ",
+              "romaji": "ryo",
+              "example": "りょこう",
+              "read": "ryokou",
+              "meaning": "travel"
+            },
+            {
+              "character": "ぎゃ",
+              "romaji": "gya",
+              "example": "ぎゃく",
+              "read": "gyaku",
+              "meaning": "reverse"
+            },
+            {
+              "character": "ぎゅ",
+              "romaji": "gyu",
+              "example": "ぎゅうにゅう",
+              "read": "gyuunyuu",
+              "meaning": "milk"
+            },
+            {
+              "character": "ぎょ",
+              "romaji": "gyo",
+              "example": "ぎょうれつ",
+              "read": "gyouretsu",
+              "meaning": "line/queue"
+            },
+            {
+              "character": "じゃ",
+              "romaji": "ja",
+              "example": "じゃがいも",
+              "read": "jagaimo",
+              "meaning": "potato"
+            },
+            {
+              "character": "じゅ",
+              "romaji": "ju",
+              "example": "じゅうしょ",
+              "read": "juusho",
+              "meaning": "address"
+            },
+            {
+              "character": "じょ",
+              "romaji": "jo",
+              "example": "じょうず",
+              "read": "jouzu",
+              "meaning": "skillful"
+            },
+            {
+              "character": "びゃ",
+              "romaji": "bya",
+              "example": "びゃくや",
+              "read": "byakuya",
+              "meaning": "white night"
+            },
+            {
+              "character": "びゅ",
+              "romaji": "byu",
+              "example": "びゅーてぃー",
+              "read": "byuutii",
+              "meaning": "beauty"
+            },
+            {
+              "character": "びょ",
+              "romaji": "byo",
+              "example": "びょういん",
+              "read": "byouin",
+              "meaning": "hospital"
+            },
+            {
+              "character": "ぴゃ",
+              "romaji": "pya",
+              "example": "ろっぴゃく",
+              "read": "roppyaku",
+              "meaning": "six hundred"
+            },
+            {
+              "character": "ぴゅ",
+              "romaji": "pyu",
+              "example": "ぴゅーれ",
+              "read": "pyuure",
+              "meaning": "puree"
+            },
+            {
+              "character": "ぴょ",
+              "romaji": "pyo",
+              "example": "ぴょんぴょん",
+              "read": "pyonpyon",
+              "meaning": "hopping"
+            }
           ]
         }
       ]
@@ -206,214 +830,935 @@
         {
           "group": "vowels",
           "items": [
-            { "character": "ア", "romaji": "a" },
-            { "character": "イ", "romaji": "i" },
-            { "character": "ウ", "romaji": "u" },
-            { "character": "エ", "romaji": "e" },
-            { "character": "オ", "romaji": "o" }
+            {
+              "character": "ア",
+              "romaji": "a",
+              "example": "アメリカ",
+              "read": "amerika",
+              "meaning": "America"
+            },
+            {
+              "character": "イ",
+              "romaji": "i",
+              "example": "イギリス",
+              "read": "igirisu",
+              "meaning": "England"
+            },
+            {
+              "character": "ウ",
+              "romaji": "u",
+              "example": "ウイルス",
+              "read": "uirusu",
+              "meaning": "virus"
+            },
+            {
+              "character": "エ",
+              "romaji": "e",
+              "example": "エレベーター",
+              "read": "erebeetaa",
+              "meaning": "elevator"
+            },
+            {
+              "character": "オ",
+              "romaji": "o",
+              "example": "オレンジ",
+              "read": "orenji",
+              "meaning": "orange"
+            }
           ]
         },
         {
           "group": "k",
           "items": [
-            { "character": "カ", "romaji": "ka" },
-            { "character": "キ", "romaji": "ki" },
-            { "character": "ク", "romaji": "ku" },
-            { "character": "ケ", "romaji": "ke" },
-            { "character": "コ", "romaji": "ko" }
+            {
+              "character": "カ",
+              "romaji": "ka",
+              "example": "カメラ",
+              "read": "kamera",
+              "meaning": "camera"
+            },
+            {
+              "character": "キ",
+              "romaji": "ki",
+              "example": "キッチン",
+              "read": "kicchin",
+              "meaning": "kitchen"
+            },
+            {
+              "character": "ク",
+              "romaji": "ku",
+              "example": "クラス",
+              "read": "kurasu",
+              "meaning": "class"
+            },
+            {
+              "character": "ケ",
+              "romaji": "ke",
+              "example": "ケーキ",
+              "read": "keeki",
+              "meaning": "cake"
+            },
+            {
+              "character": "コ",
+              "romaji": "ko",
+              "example": "コーヒー",
+              "read": "koohii",
+              "meaning": "coffee"
+            }
           ]
         },
         {
           "group": "s",
           "items": [
-            { "character": "サ", "romaji": "sa" },
-            { "character": "シ", "romaji": "shi" },
-            { "character": "ス", "romaji": "su" },
-            { "character": "セ", "romaji": "se" },
-            { "character": "ソ", "romaji": "so" }
+            {
+              "character": "サ",
+              "romaji": "sa",
+              "example": "サラダ",
+              "read": "sarada",
+              "meaning": "salad"
+            },
+            {
+              "character": "シ",
+              "romaji": "shi",
+              "example": "シャツ",
+              "read": "shatsu",
+              "meaning": "shirt"
+            },
+            {
+              "character": "ス",
+              "romaji": "su",
+              "example": "スーパー",
+              "read": "suupaa",
+              "meaning": "supermarket"
+            },
+            {
+              "character": "セ",
+              "romaji": "se",
+              "example": "セーター",
+              "read": "seetaa",
+              "meaning": "sweater"
+            },
+            {
+              "character": "ソ",
+              "romaji": "so",
+              "example": "ソファ",
+              "read": "sofa",
+              "meaning": "sofa"
+            }
           ]
         },
         {
           "group": "t",
           "items": [
-            { "character": "タ", "romaji": "ta" },
-            { "character": "チ", "romaji": "chi" },
-            { "character": "ツ", "romaji": "tsu" },
-            { "character": "テ", "romaji": "te" },
-            { "character": "ト", "romaji": "to" }
+            {
+              "character": "タ",
+              "romaji": "ta",
+              "example": "タクシー",
+              "read": "takushii",
+              "meaning": "taxi"
+            },
+            {
+              "character": "チ",
+              "romaji": "chi",
+              "example": "チョコレート",
+              "read": "chokoreeto",
+              "meaning": "chocolate"
+            },
+            {
+              "character": "ツ",
+              "romaji": "tsu",
+              "example": "ツアー",
+              "read": "tsuaa",
+              "meaning": "tour"
+            },
+            {
+              "character": "テ",
+              "romaji": "te",
+              "example": "テレビ",
+              "read": "terebi",
+              "meaning": "television"
+            },
+            {
+              "character": "ト",
+              "romaji": "to",
+              "example": "トイレ",
+              "read": "toire",
+              "meaning": "toilet"
+            }
           ]
         },
         {
           "group": "n",
           "items": [
-            { "character": "ナ", "romaji": "na" },
-            { "character": "ニ", "romaji": "ni" },
-            { "character": "ヌ", "romaji": "nu" },
-            { "character": "ネ", "romaji": "ne" },
-            { "character": "ノ", "romaji": "no" }
+            {
+              "character": "ナ",
+              "romaji": "na",
+              "example": "ナイフ",
+              "read": "naifu",
+              "meaning": "knife"
+            },
+            {
+              "character": "ニ",
+              "romaji": "ni",
+              "example": "ニュース",
+              "read": "nyuusu",
+              "meaning": "news"
+            },
+            {
+              "character": "ヌ",
+              "romaji": "nu",
+              "example": "ヌードル",
+              "read": "nuudoru",
+              "meaning": "noodle"
+            },
+            {
+              "character": "ネ",
+              "romaji": "ne",
+              "example": "ネクタイ",
+              "read": "nekutai",
+              "meaning": "necktie"
+            },
+            {
+              "character": "ノ",
+              "romaji": "no",
+              "example": "ノート",
+              "read": "nooto",
+              "meaning": "notebook"
+            }
           ]
         },
         {
           "group": "h",
           "items": [
-            { "character": "ハ", "romaji": "ha" },
-            { "character": "ヒ", "romaji": "hi" },
-            { "character": "フ", "romaji": "fu" },
-            { "character": "ヘ", "romaji": "he" },
-            { "character": "ホ", "romaji": "ho" }
+            {
+              "character": "ハ",
+              "romaji": "ha",
+              "example": "ハンバーガー",
+              "read": "hanbaagaa",
+              "meaning": "hamburger"
+            },
+            {
+              "character": "ヒ",
+              "romaji": "hi",
+              "example": "ヒーター",
+              "read": "hiitaa",
+              "meaning": "heater"
+            },
+            {
+              "character": "フ",
+              "romaji": "fu",
+              "example": "フルーツ",
+              "read": "furuutsu",
+              "meaning": "fruits"
+            },
+            {
+              "character": "ヘ",
+              "romaji": "he",
+              "example": "ヘリコプター",
+              "read": "herikoputaa",
+              "meaning": "helicopter"
+            },
+            {
+              "character": "ホ",
+              "romaji": "ho",
+              "example": "ホテル",
+              "read": "hoteru",
+              "meaning": "hotel"
+            }
           ]
         },
         {
           "group": "m",
           "items": [
-            { "character": "マ", "romaji": "ma" },
-            { "character": "ミ", "romaji": "mi" },
-            { "character": "ム", "romaji": "mu" },
-            { "character": "メ", "romaji": "me" },
-            { "character": "モ", "romaji": "mo" }
+            {
+              "character": "マ",
+              "romaji": "ma",
+              "example": "マンション",
+              "read": "manshon",
+              "meaning": "apartment"
+            },
+            {
+              "character": "ミ",
+              "romaji": "mi",
+              "example": "ミルク",
+              "read": "miruku",
+              "meaning": "milk"
+            },
+            {
+              "character": "ム",
+              "romaji": "mu",
+              "example": "ムービー",
+              "read": "muubii",
+              "meaning": "movie"
+            },
+            {
+              "character": "メ",
+              "romaji": "me",
+              "example": "メニュー",
+              "read": "menyuu",
+              "meaning": "menu"
+            },
+            {
+              "character": "モ",
+              "romaji": "mo",
+              "example": "モデル",
+              "read": "moderu",
+              "meaning": "model"
+            }
           ]
         },
         {
           "group": "y",
           "items": [
-            { "character": "ヤ", "romaji": "ya" },
-            { "character": "ユ", "romaji": "yu" },
-            { "character": "ヨ", "romaji": "yo" }
+            {
+              "character": "ヤ",
+              "romaji": "ya",
+              "example": "ヤンキー",
+              "read": "yankii",
+              "meaning": "yankee"
+            },
+            {
+              "character": "ユ",
+              "romaji": "yu",
+              "example": "ユニフォーム",
+              "read": "yunifoomu",
+              "meaning": "uniform"
+            },
+            {
+              "character": "ヨ",
+              "romaji": "yo",
+              "example": "ヨーグルト",
+              "read": "yooguruto",
+              "meaning": "yogurt"
+            }
           ]
         },
         {
           "group": "r",
           "items": [
-            { "character": "ラ", "romaji": "ra" },
-            { "character": "リ", "romaji": "ri" },
-            { "character": "ル", "romaji": "ru" },
-            { "character": "レ", "romaji": "re" },
-            { "character": "ロ", "romaji": "ro" }
+            {
+              "character": "ラ",
+              "romaji": "ra",
+              "example": "ラーメン",
+              "read": "raamen",
+              "meaning": "ramen"
+            },
+            {
+              "character": "リ",
+              "romaji": "ri",
+              "example": "リモコン",
+              "read": "rimokon",
+              "meaning": "remote control"
+            },
+            {
+              "character": "ル",
+              "romaji": "ru",
+              "example": "ルール",
+              "read": "ruuru",
+              "meaning": "rule"
+            },
+            {
+              "character": "レ",
+              "romaji": "re",
+              "example": "レストラン",
+              "read": "resutoran",
+              "meaning": "restaurant"
+            },
+            {
+              "character": "ロ",
+              "romaji": "ro",
+              "example": "ロボット",
+              "read": "robotto",
+              "meaning": "robot"
+            }
           ]
         },
         {
           "group": "w",
           "items": [
-            { "character": "ワ", "romaji": "wa" },
-            { "character": "ヲ", "romaji": "wo" }
+            {
+              "character": "ワ",
+              "romaji": "wa",
+              "example": "ワイン",
+              "read": "wain",
+              "meaning": "wine"
+            },
+            {
+              "character": "ヲ",
+              "romaji": "wo",
+              "example": "ヲタク",
+              "read": "wotaku",
+              "meaning": "otaku"
+            }
           ]
         },
         {
           "group": "special",
           "items": [
-            { "character": "ン", "romaji": "n" }
+            {
+              "character": "ン",
+              "romaji": "n",
+              "example": "パン",
+              "read": "pan",
+              "meaning": "bread"
+            }
           ]
         },
         {
           "group": "g (dakuten)",
           "items": [
-            { "character": "ガ", "romaji": "ga" },
-            { "character": "ギ", "romaji": "gi" },
-            { "character": "グ", "romaji": "gu" },
-            { "character": "ゲ", "romaji": "ge" },
-            { "character": "ゴ", "romaji": "go" }
+            {
+              "character": "ガ",
+              "romaji": "ga",
+              "example": "ガソリン",
+              "read": "gasorin",
+              "meaning": "gasoline"
+            },
+            {
+              "character": "ギ",
+              "romaji": "gi",
+              "example": "ギター",
+              "read": "gitaa",
+              "meaning": "guitar"
+            },
+            {
+              "character": "グ",
+              "romaji": "gu",
+              "example": "グループ",
+              "read": "guruupu",
+              "meaning": "group"
+            },
+            {
+              "character": "ゲ",
+              "romaji": "ge",
+              "example": "ゲーム",
+              "read": "geemu",
+              "meaning": "game"
+            },
+            {
+              "character": "ゴ",
+              "romaji": "go",
+              "example": "ゴルフ",
+              "read": "gorufu",
+              "meaning": "golf"
+            }
           ]
         },
         {
           "group": "z (dakuten)",
           "items": [
-            { "character": "ザ", "romaji": "za" },
-            { "character": "ジ", "romaji": "ji" },
-            { "character": "ズ", "romaji": "zu" },
-            { "character": "ゼ", "romaji": "ze" },
-            { "character": "ゾ", "romaji": "zo" }
+            {
+              "character": "ザ",
+              "romaji": "za",
+              "example": "ピザ",
+              "read": "piza",
+              "meaning": "pizza"
+            },
+            {
+              "character": "ジ",
+              "romaji": "ji",
+              "example": "ジュース",
+              "read": "juusu",
+              "meaning": "juice"
+            },
+            {
+              "character": "ズ",
+              "romaji": "zu",
+              "example": "チーズ",
+              "read": "chiizu",
+              "meaning": "cheese"
+            },
+            {
+              "character": "ゼ",
+              "romaji": "ze",
+              "example": "ゼロ",
+              "read": "zero",
+              "meaning": "zero"
+            },
+            {
+              "character": "ゾ",
+              "romaji": "zo",
+              "example": "ゾーン",
+              "read": "zoon",
+              "meaning": "zone"
+            }
           ]
         },
         {
           "group": "d (dakuten)",
           "items": [
-            { "character": "ダ", "romaji": "da" },
-            { "character": "ヂ", "romaji": "ji" },
-            { "character": "ヅ", "romaji": "zu" },
-            { "character": "デ", "romaji": "de" },
-            { "character": "ド", "romaji": "do" }
+            {
+              "character": "ダ",
+              "romaji": "da",
+              "example": "ダンス",
+              "read": "dansu",
+              "meaning": "dance"
+            },
+            {
+              "character": "ヂ",
+              "romaji": "ji",
+              "example": "エヂソン",
+              "read": "ejison",
+              "meaning": "Edison"
+            },
+            {
+              "character": "ヅ",
+              "romaji": "zu",
+              "example": "ゴヅ",
+              "read": "gozu",
+              "meaning": "Godzilla variant"
+            },
+            {
+              "character": "デ",
+              "romaji": "de",
+              "example": "デザイン",
+              "read": "dezain",
+              "meaning": "design"
+            },
+            {
+              "character": "ド",
+              "romaji": "do",
+              "example": "ドア",
+              "read": "doa",
+              "meaning": "door"
+            }
           ]
         },
         {
           "group": "b (dakuten)",
           "items": [
-            { "character": "バ", "romaji": "ba" },
-            { "character": "ビ", "romaji": "bi" },
-            { "character": "ブ", "romaji": "bu" },
-            { "character": "ベ", "romaji": "be" },
-            { "character": "ボ", "romaji": "bo" }
+            {
+              "character": "バ",
+              "romaji": "ba",
+              "example": "バス",
+              "read": "basu",
+              "meaning": "bus"
+            },
+            {
+              "character": "ビ",
+              "romaji": "bi",
+              "example": "ビール",
+              "read": "biiru",
+              "meaning": "beer"
+            },
+            {
+              "character": "ブ",
+              "romaji": "bu",
+              "example": "ブログ",
+              "read": "burogu",
+              "meaning": "blog"
+            },
+            {
+              "character": "ベ",
+              "romaji": "be",
+              "example": "ベッド",
+              "read": "beddo",
+              "meaning": "bed"
+            },
+            {
+              "character": "ボ",
+              "romaji": "bo",
+              "example": "ボール",
+              "read": "booru",
+              "meaning": "ball"
+            }
           ]
         },
         {
           "group": "p (handakuten)",
           "items": [
-            { "character": "パ", "romaji": "pa" },
-            { "character": "ピ", "romaji": "pi" },
-            { "character": "プ", "romaji": "pu" },
-            { "character": "ペ", "romaji": "pe" },
-            { "character": "ポ", "romaji": "po" }
+            {
+              "character": "パ",
+              "romaji": "pa",
+              "example": "パーティー",
+              "read": "paatii",
+              "meaning": "party"
+            },
+            {
+              "character": "ピ",
+              "romaji": "pi",
+              "example": "ピアノ",
+              "read": "piano",
+              "meaning": "piano"
+            },
+            {
+              "character": "プ",
+              "romaji": "pu",
+              "example": "プール",
+              "read": "puuru",
+              "meaning": "pool"
+            },
+            {
+              "character": "ペ",
+              "romaji": "pe",
+              "example": "ペン",
+              "read": "pen",
+              "meaning": "pen"
+            },
+            {
+              "character": "ポ",
+              "romaji": "po",
+              "example": "ポスト",
+              "read": "posuto",
+              "meaning": "post"
+            }
           ]
         },
         {
           "group": "combination (ya)",
           "items": [
-            { "character": "キャ", "romaji": "kya" },
-            { "character": "キュ", "romaji": "kyu" },
-            { "character": "キョ", "romaji": "kyo" },
-            { "character": "シャ", "romaji": "sha" },
-            { "character": "シュ", "romaji": "shu" },
-            { "character": "ショ", "romaji": "sho" },
-            { "character": "チャ", "romaji": "cha" },
-            { "character": "チュ", "romaji": "chu" },
-            { "character": "チョ", "romaji": "cho" },
-            { "character": "ニャ", "romaji": "nya" },
-            { "character": "ニュ", "romaji": "nyu" },
-            { "character": "ニョ", "romaji": "nyo" },
-            { "character": "ヒャ", "romaji": "hya" },
-            { "character": "ヒュ", "romaji": "hyu" },
-            { "character": "ヒョ", "romaji": "hyo" },
-            { "character": "ミャ", "romaji": "mya" },
-            { "character": "ミュ", "romaji": "myu" },
-            { "character": "ミョ", "romaji": "myo" },
-            { "character": "リャ", "romaji": "rya" },
-            { "character": "リュ", "romaji": "ryu" },
-            { "character": "リョ", "romaji": "ryo" },
-            { "character": "ギャ", "romaji": "gya" },
-            { "character": "ギュ", "romaji": "gyu" },
-            { "character": "ギョ", "romaji": "gyo" },
-            { "character": "ジャ", "romaji": "ja" },
-            { "character": "ジュ", "romaji": "ju" },
-            { "character": "ジョ", "romaji": "jo" },
-            { "character": "ビャ", "romaji": "bya" },
-            { "character": "ビュ", "romaji": "byu" },
-            { "character": "ビョ", "romaji": "byo" },
-            { "character": "ピャ", "romaji": "pya" },
-            { "character": "ピュ", "romaji": "pyu" },
-            { "character": "ピョ", "romaji": "pyo" }
+            {
+              "character": "キャ",
+              "romaji": "kya",
+              "example": "キャンプ",
+              "read": "kyanpu",
+              "meaning": "camp"
+            },
+            {
+              "character": "キュ",
+              "romaji": "kyu",
+              "example": "キュート",
+              "read": "kyuuto",
+              "meaning": "cute"
+            },
+            {
+              "character": "キョ",
+              "romaji": "kyo",
+              "example": "トーキョー",
+              "read": "tookyoo",
+              "meaning": "Tokyo"
+            },
+            {
+              "character": "シャ",
+              "romaji": "sha",
+              "example": "シャワー",
+              "read": "shawaa",
+              "meaning": "shower"
+            },
+            {
+              "character": "シュ",
+              "romaji": "shu",
+              "example": "シューズ",
+              "read": "shuuzu",
+              "meaning": "shoes"
+            },
+            {
+              "character": "ショ",
+              "romaji": "sho",
+              "example": "ショッピング",
+              "read": "shoppingu",
+              "meaning": "shopping"
+            },
+            {
+              "character": "チャ",
+              "romaji": "cha",
+              "example": "チャンス",
+              "read": "chansu",
+              "meaning": "chance"
+            },
+            {
+              "character": "チュ",
+              "romaji": "chu",
+              "example": "チューブ",
+              "read": "chuubu",
+              "meaning": "tube"
+            },
+            {
+              "character": "チョ",
+              "romaji": "cho",
+              "example": "チョコ",
+              "read": "choko",
+              "meaning": "chocolate"
+            },
+            {
+              "character": "ニャ",
+              "romaji": "nya",
+              "example": "ニャンコ",
+              "read": "nyanko",
+              "meaning": "kitty"
+            },
+            {
+              "character": "ニュ",
+              "romaji": "nyu",
+              "example": "ニュース",
+              "read": "nyuusu",
+              "meaning": "news"
+            },
+            {
+              "character": "ニョ",
+              "romaji": "nyo",
+              "example": "カンニョ",
+              "read": "kannyo",
+              "meaning": "nurse (archaic)"
+            },
+            {
+              "character": "ヒャ",
+              "romaji": "hya",
+              "example": "ヒャッキン",
+              "read": "hyakkin",
+              "meaning": "100 yen shop"
+            },
+            {
+              "character": "ヒュ",
+              "romaji": "hyu",
+              "example": "ヒューズ",
+              "read": "hyuuzu",
+              "meaning": "fuse"
+            },
+            {
+              "character": "ヒョ",
+              "romaji": "hyo",
+              "example": "ヒョウ",
+              "read": "hyou",
+              "meaning": "leopard"
+            },
+            {
+              "character": "ミャ",
+              "romaji": "mya",
+              "example": "ミャンマー",
+              "read": "myanmaa",
+              "meaning": "Myanmar"
+            },
+            {
+              "character": "ミュ",
+              "romaji": "myu",
+              "example": "ミュージック",
+              "read": "myuujikku",
+              "meaning": "music"
+            },
+            {
+              "character": "ミョ",
+              "romaji": "myo",
+              "example": "ミョウガ",
+              "read": "myouga",
+              "meaning": "ginger"
+            },
+            {
+              "character": "リャ",
+              "romaji": "rya",
+              "example": "リャマ",
+              "read": "ryama",
+              "meaning": "llama"
+            },
+            {
+              "character": "リュ",
+              "romaji": "ryu",
+              "example": "リュック",
+              "read": "ryukku",
+              "meaning": "backpack"
+            },
+            {
+              "character": "リョ",
+              "romaji": "ryo",
+              "example": "リョウリ",
+              "read": "ryouri",
+              "meaning": "cooking"
+            },
+            {
+              "character": "ギャ",
+              "romaji": "gya",
+              "example": "ギャラリー",
+              "read": "gyararii",
+              "meaning": "gallery"
+            },
+            {
+              "character": "ギュ",
+              "romaji": "gyu",
+              "example": "ギュウニク",
+              "read": "gyuuniku",
+              "meaning": "beef"
+            },
+            {
+              "character": "ギョ",
+              "romaji": "gyo",
+              "example": "ギョウザ",
+              "read": "gyouza",
+              "meaning": "dumplings"
+            },
+            {
+              "character": "ジャ",
+              "romaji": "ja",
+              "example": "ジャケット",
+              "read": "jaketto",
+              "meaning": "jacket"
+            },
+            {
+              "character": "ジュ",
+              "romaji": "ju",
+              "example": "ジュース",
+              "read": "juusu",
+              "meaning": "juice"
+            },
+            {
+              "character": "ジョ",
+              "romaji": "jo",
+              "example": "ジョギング",
+              "read": "jogingu",
+              "meaning": "jogging"
+            },
+            {
+              "character": "ビャ",
+              "romaji": "bya",
+              "example": "ビャクヤ",
+              "read": "byakuya",
+              "meaning": "white night"
+            },
+            {
+              "character": "ビュ",
+              "romaji": "byu",
+              "example": "ビュッフェ",
+              "read": "byuffe",
+              "meaning": "buffet"
+            },
+            {
+              "character": "ビョ",
+              "romaji": "byo",
+              "example": "ビョウイン",
+              "read": "byouin",
+              "meaning": "hospital"
+            },
+            {
+              "character": "ピャ",
+              "romaji": "pya",
+              "example": "ロッピャク",
+              "read": "roppyaku",
+              "meaning": "six hundred"
+            },
+            {
+              "character": "ピュ",
+              "romaji": "pyu",
+              "example": "ピューレ",
+              "read": "pyuure",
+              "meaning": "puree"
+            },
+            {
+              "character": "ピョ",
+              "romaji": "pyo",
+              "example": "ピョンピョン",
+              "read": "pyonpyon",
+              "meaning": "hopping"
+            }
           ]
         },
         {
           "group": "extended (foreign sounds)",
           "items": [
-            { "character": "ヴァ", "romaji": "va" },
-            { "character": "ヴィ", "romaji": "vi" },
-            { "character": "ヴ", "romaji": "vu" },
-            { "character": "ヴェ", "romaji": "ve" },
-            { "character": "ヴォ", "romaji": "vo" },
-            { "character": "ファ", "romaji": "fa" },
-            { "character": "フィ", "romaji": "fi" },
-            { "character": "フェ", "romaji": "fe" },
-            { "character": "フォ", "romaji": "fo" },
-            { "character": "ティ", "romaji": "ti" },
-            { "character": "ディ", "romaji": "di" },
-            { "character": "トゥ", "romaji": "tu" },
-            { "character": "ドゥ", "romaji": "du" },
-            { "character": "ウィ", "romaji": "wi" },
-            { "character": "ウェ", "romaji": "we" },
-            { "character": "ウォ", "romaji": "wo" }
+            {
+              "character": "ヴァ",
+              "romaji": "va",
+              "example": "ヴァイオリン",
+              "read": "vaiorin",
+              "meaning": "violin"
+            },
+            {
+              "character": "ヴィ",
+              "romaji": "vi",
+              "example": "ヴィラ",
+              "read": "vira",
+              "meaning": "villa"
+            },
+            {
+              "character": "ヴ",
+              "romaji": "vu",
+              "example": "ヴルカン",
+              "read": "vurukan",
+              "meaning": "Vulcan"
+            },
+            {
+              "character": "ヴェ",
+              "romaji": "ve",
+              "example": "ヴェネツィア",
+              "read": "venetsia",
+              "meaning": "Venice"
+            },
+            {
+              "character": "ヴォ",
+              "romaji": "vo",
+              "example": "ヴォーカル",
+              "read": "vookaru",
+              "meaning": "vocal"
+            },
+            {
+              "character": "ファ",
+              "romaji": "fa",
+              "example": "ファン",
+              "read": "fan",
+              "meaning": "fan"
+            },
+            {
+              "character": "フィ",
+              "romaji": "fi",
+              "example": "フィルム",
+              "read": "firumu",
+              "meaning": "film"
+            },
+            {
+              "character": "フェ",
+              "romaji": "fe",
+              "example": "カフェ",
+              "read": "kafe",
+              "meaning": "cafe"
+            },
+            {
+              "character": "フォ",
+              "romaji": "fo",
+              "example": "フォーク",
+              "read": "fooku",
+              "meaning": "fork"
+            },
+            {
+              "character": "ティ",
+              "romaji": "ti",
+              "example": "パーティー",
+              "read": "paatii",
+              "meaning": "party"
+            },
+            {
+              "character": "ディ",
+              "romaji": "di",
+              "example": "ディナー",
+              "read": "dinaa",
+              "meaning": "dinner"
+            },
+            {
+              "character": "トゥ",
+              "romaji": "tu",
+              "example": "トゥデイ",
+              "read": "tudei",
+              "meaning": "today"
+            },
+            {
+              "character": "ドゥ",
+              "romaji": "du",
+              "example": "ドゥバイ",
+              "read": "dubai",
+              "meaning": "Dubai"
+            },
+            {
+              "character": "ウィ",
+              "romaji": "wi",
+              "example": "ウィンドウ",
+              "read": "windou",
+              "meaning": "window"
+            },
+            {
+              "character": "ウェ",
+              "romaji": "we",
+              "example": "ウェブ",
+              "read": "webu",
+              "meaning": "web"
+            },
+            {
+              "character": "ウォ",
+              "romaji": "wo",
+              "example": "ウォーター",
+              "read": "wootaa",
+              "meaning": "water"
+            }
           ]
         }
       ]
     }
   ]
 }
+
