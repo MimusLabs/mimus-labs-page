@@ -72,4 +72,80 @@
     "id": "Menyelesaikan sesuatu sampai akhir itu penting.",
     "en": "It’s important to keep trying until the end."
   }
-}]
+},
+{
+  "title": {
+    "japanese": "ちいさな とりの はじめての そら",
+    "romaji": "Chiisana Tori no Hajimete no Sora",
+    "id": "Langit Pertama Si Burung Kecil",
+    "en": "The Little Bird’s First Sky"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな とりが すに いました。",
+      "romaji": "Aru hi, chiisana tori ga su ni imashita.",
+      "id": "Suatu hari, ada seekor burung kecil di dalam sarangnya.",
+      "en": "One day, there was a small bird in its nest."
+    },
+    {
+      "japanese": "とりは そらを とぶ ことを ゆめに みて いました。",
+      "romaji": "Tori wa sora o tobu koto o yume ni mite imashita.",
+      "id": "Burung itu bermimpi untuk terbang di langit.",
+      "en": "The bird dreamed of flying in the sky."
+    },
+    {
+      "japanese": "あるあさ、とりは すの そとに でました。",
+      "romaji": "Aru asa, tori wa su no soto ni demashita.",
+      "id": "Suatu pagi, burung itu keluar dari sarangnya.",
+      "en": "One morning, the bird went outside its nest."
+    },
+    {
+      "japanese": "でも、たかくて こわく なりました。",
+      "romaji": "Demo, takakute kowaku narimashita.",
+      "id": "Namun, tempat itu tinggi dan ia menjadi takut.",
+      "en": "But it was high, and the bird became scared."
+    },
+    {
+      "japanese": "とりは つばさを ひろげて、",
+      "romaji": "Tori wa tsubasa o hirogete,",
+      "id": "Burung itu membuka sayapnya,",
+      "en": "The bird spread its wings,"
+    },
+    {
+      "japanese": "「だいじょうぶ」と じぶんに いいました。",
+      "romaji": "“Daijoubu” to jibun ni iimashita.",
+      "id": "dan berkata pada dirinya sendiri, “Tidak apa-apa.”",
+      "en": "and said to itself, “It’s okay.”"
+    },
+    {
+      "japanese": "ゆうきを だして、そらへ とびました。",
+      "romaji": "Yuuki o dashite, sora e tobimashita.",
+      "id": "Dengan berani, ia terbang menuju langit.",
+      "en": "Gathering its courage, it flew into the sky."
+    },
+    {
+      "japanese": "かぜは やさしく からだを ささえました。",
+      "romaji": "Kaze wa yasashiku karada o sasaemashita.",
+      "id": "Angin dengan lembut menopang tubuhnya.",
+      "en": "The wind gently supported its body."
+    },
+    {
+      "japanese": "とりは そらで にっこり わらいました。",
+      "romaji": "Tori wa sora de nikkori waraimashita.",
+      "id": "Burung itu tersenyum di langit.",
+      "en": "The bird smiled in the sky."
+    },
+    {
+      "japanese": "「ゆめは かなう」と こころで かんじました。",
+      "romaji": "“Yume wa kanau” to kokoro de kanjimashita.",
+      "id": "Ia merasa dalam hatinya, “Mimpi bisa terwujud.”",
+      "en": "It felt in its heart, “Dreams can come true.”"
+    }
+  ],
+  "moral": {
+    "japanese": "ゆうきを だせば、あたらしい せかいが ひらける。",
+    "id": "Jika berani melangkah, dunia baru akan terbuka.",
+    "en": "When you find the courage, a new world opens."
+  }
+}
+]
