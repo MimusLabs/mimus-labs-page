@@ -1,151 +1,152 @@
-[{
-  "title": {
-    "japanese": "ちいさな ねこの はなし",
-    "romaji": "Chiisana Neko no Hanashi",
-    "id": "Cerita Tentang Kucing Kecil",
-    "en": "The Story of a Little Cat"
-  },
-  "story": [
-    {
-      "japanese": "あるひ、ちいさな ねこが いました。",
-      "romaji": "Aru hi, chiisana neko ga imashita.",
-      "id": "Suatu hari, ada seekor kucing kecil.",
-      "en": "One day, there was a small cat."
+{"data":[{
+    "title": {
+      "japanese": "ちいさな ねこの はなし",
+      "romaji": "Chiisana Neko no Hanashi",
+      "id": "Cerita Tentang Kucing Kecil",
+      "en": "The Story of a Little Cat"
     },
-    {
-      "japanese": "ねこは まいにち そとで あそぶのが すきでした。",
-      "romaji": "Neko wa mainichi soto de asobu no ga suki deshita.",
-      "id": "Kucing itu suka bermain di luar setiap hari.",
-      "en": "The cat liked playing outside every day."
-    },
-    {
-      "japanese": "あるあさ、ねこは たかい きに のぼりました。",
-      "romaji": "Aru asa, neko wa takai ki ni noborimashita.",
-      "id": "Suatu pagi, kucing itu memanjat pohon yang tinggi.",
-      "en": "One morning, the cat climbed a tall tree."
-    },
-    {
-      "japanese": "でも、こわくなって したに おりられません。",
-      "romaji": "Demo, kowaku natte shita ni oriraremasen.",
-      "id": "Namun, ia menjadi takut dan tidak bisa turun.",
-      "en": "But it became scared and couldn’t get down."
-    },
-    {
-      "japanese": "ねこは ふかく いきを して、",
-      "romaji": "Neko wa fukaku iki o shite,",
-      "id": "Kucing itu menarik napas dalam-dalam,",
-      "en": "The cat took a deep breath,"
-    },
-    {
-      "japanese": "「だいじょうぶ、できる」と こころの なかで いいました。",
-      "romaji": "“Daijoubu, dekiru” to kokoro no naka de iimashita.",
-      "id": "dan berkata dalam hatinya, “Tidak apa-apa, aku bisa.”",
-      "en": "and said in its heart, “It’s okay, I can do it.”"
-    },
-    {
-      "japanese": "ゆっくり、いっぽ いっぽ、",
-      "romaji": "Yukkuri, ippo ippo,",
-      "id": "Pelan-pelan, satu langkah demi satu langkah,",
-      "en": "Slowly, step by step,"
-    },
-    {
-      "japanese": "ねこは じぶんで したに おりました。",
-      "romaji": "Neko wa jibun de shita ni orimashita.",
-      "id": "kucing itu turun sendiri.",
-      "en": "the cat climbed down by itself."
-    },
-    {
-      "japanese": "さいごに、ねこは にっこり わらいました。",
-      "romaji": "Saigo ni, neko wa nikkori waraimashita.",
-      "id": "Akhirnya, kucing itu tersenyum.",
-      "en": "In the end, the cat smiled."
-    },
-    {
-      "japanese": "「さいごまで やって よかった」と おもいました。",
-      "romaji": "“Saigo made yatte yokatta” to omoimashita.",
-      "id": "Ia berpikir, “Aku senang sudah menyelesaikannya sampai akhir.”",
-      "en": "It thought, “I’m glad I finished it until the end.”"
+    "story": [
+      {
+        "japanese": "あるひ、ちいさな ねこが いました。",
+        "romaji": "Aru hi, chiisana neko ga imashita.",
+        "id": "Suatu hari, ada seekor kucing kecil.",
+        "en": "One day, there was a small cat."
+      },
+      {
+        "japanese": "ねこは まいにち そとで あそぶのが すきでした。",
+        "romaji": "Neko wa mainichi soto de asobu no ga suki deshita.",
+        "id": "Kucing itu suka bermain di luar setiap hari.",
+        "en": "The cat liked playing outside every day."
+      },
+      {
+        "japanese": "あるあさ、ねこは たかい きに のぼりました。",
+        "romaji": "Aru asa, neko wa takai ki ni noborimashita.",
+        "id": "Suatu pagi, kucing itu memanjat pohon yang tinggi.",
+        "en": "One morning, the cat climbed a tall tree."
+      },
+      {
+        "japanese": "でも、こわくなって したに おりられません。",
+        "romaji": "Demo, kowaku natte shita ni oriraremasen.",
+        "id": "Namun, ia menjadi takut dan tidak bisa turun.",
+        "en": "But it became scared and couldn’t get down."
+      },
+      {
+        "japanese": "ねこは ふかく いきを して、",
+        "romaji": "Neko wa fukaku iki o shite,",
+        "id": "Kucing itu menarik napas dalam-dalam,",
+        "en": "The cat took a deep breath,"
+      },
+      {
+        "japanese": "「だいじょうぶ、できる」と こころの なかで いいました。",
+        "romaji": "“Daijoubu, dekiru” to kokoro no naka de iimashita.",
+        "id": "dan berkata dalam hatinya, “Tidak apa-apa, aku bisa.”",
+        "en": "and said in its heart, “It’s okay, I can do it.”"
+      },
+      {
+        "japanese": "ゆっくり、いっぽ いっぽ、",
+        "romaji": "Yukkuri, ippo ippo,",
+        "id": "Pelan-pelan, satu langkah demi satu langkah,",
+        "en": "Slowly, step by step,"
+      },
+      {
+        "japanese": "ねこは じぶんで したに おりました。",
+        "romaji": "Neko wa jibun de shita ni orimashita.",
+        "id": "kucing itu turun sendiri.",
+        "en": "the cat climbed down by itself."
+      },
+      {
+        "japanese": "さいごに、ねこは にっこり わらいました。",
+        "romaji": "Saigo ni, neko wa nikkori waraimashita.",
+        "id": "Akhirnya, kucing itu tersenyum.",
+        "en": "In the end, the cat smiled."
+      },
+      {
+        "japanese": "「さいごまで やって よかった」と おもいました。",
+        "romaji": "“Saigo made yatte yokatta” to omoimashita.",
+        "id": "Ia berpikir, “Aku senang sudah menyelesaikannya sampai akhir.”",
+        "en": "It thought, “I’m glad I finished it until the end.”"
+      }
+    ],
+    "moral": {
+      "japanese": "さいごまで がんばる ことは だいじ。",
+      "id": "Menyelesaikan sesuatu sampai akhir itu penting.",
+      "en": "It’s important to keep trying until the end."
     }
-  ],
-  "moral": {
-    "japanese": "さいごまで がんばる ことは だいじ。",
-    "id": "Menyelesaikan sesuatu sampai akhir itu penting.",
-    "en": "It’s important to keep trying until the end."
-  }
-},
-{
-  "title": {
-    "japanese": "ちいさな とりの はじめての そら",
-    "romaji": "Chiisana Tori no Hajimete no Sora",
-    "id": "Langit Pertama Si Burung Kecil",
-    "en": "The Little Bird’s First Sky"
   },
-  "story": [
-    {
-      "japanese": "あるひ、ちいさな とりが すに いました。",
-      "romaji": "Aru hi, chiisana tori ga su ni imashita.",
-      "id": "Suatu hari, ada seekor burung kecil di dalam sarangnya.",
-      "en": "One day, there was a small bird in its nest."
+  {
+    "title": {
+      "japanese": "ちいさな とりの はじめての そら",
+      "romaji": "Chiisana Tori no Hajimete no Sora",
+      "id": "Langit Pertama Si Burung Kecil",
+      "en": "The Little Bird’s First Sky"
     },
-    {
-      "japanese": "とりは そらを とぶ ことを ゆめに みて いました。",
-      "romaji": "Tori wa sora o tobu koto o yume ni mite imashita.",
-      "id": "Burung itu bermimpi untuk terbang di langit.",
-      "en": "The bird dreamed of flying in the sky."
-    },
-    {
-      "japanese": "あるあさ、とりは すの そとに でました。",
-      "romaji": "Aru asa, tori wa su no soto ni demashita.",
-      "id": "Suatu pagi, burung itu keluar dari sarangnya.",
-      "en": "One morning, the bird went outside its nest."
-    },
-    {
-      "japanese": "でも、たかくて こわく なりました。",
-      "romaji": "Demo, takakute kowaku narimashita.",
-      "id": "Namun, tempat itu tinggi dan ia menjadi takut.",
-      "en": "But it was high, and the bird became scared."
-    },
-    {
-      "japanese": "とりは つばさを ひろげて、",
-      "romaji": "Tori wa tsubasa o hirogete,",
-      "id": "Burung itu membuka sayapnya,",
-      "en": "The bird spread its wings,"
-    },
-    {
-      "japanese": "「だいじょうぶ」と じぶんに いいました。",
-      "romaji": "“Daijoubu” to jibun ni iimashita.",
-      "id": "dan berkata pada dirinya sendiri, “Tidak apa-apa.”",
-      "en": "and said to itself, “It’s okay.”"
-    },
-    {
-      "japanese": "ゆうきを だして、そらへ とびました。",
-      "romaji": "Yuuki o dashite, sora e tobimashita.",
-      "id": "Dengan berani, ia terbang menuju langit.",
-      "en": "Gathering its courage, it flew into the sky."
-    },
-    {
-      "japanese": "かぜは やさしく からだを ささえました。",
-      "romaji": "Kaze wa yasashiku karada o sasaemashita.",
-      "id": "Angin dengan lembut menopang tubuhnya.",
-      "en": "The wind gently supported its body."
-    },
-    {
-      "japanese": "とりは そらで にっこり わらいました。",
-      "romaji": "Tori wa sora de nikkori waraimashita.",
-      "id": "Burung itu tersenyum di langit.",
-      "en": "The bird smiled in the sky."
-    },
-    {
-      "japanese": "「ゆめは かなう」と こころで かんじました。",
-      "romaji": "“Yume wa kanau” to kokoro de kanjimashita.",
-      "id": "Ia merasa dalam hatinya, “Mimpi bisa terwujud.”",
-      "en": "It felt in its heart, “Dreams can come true.”"
+    "story": [
+      {
+        "japanese": "あるひ、ちいさな とりが すに いました。",
+        "romaji": "Aru hi, chiisana tori ga su ni imashita.",
+        "id": "Suatu hari, ada seekor burung kecil di dalam sarangnya.",
+        "en": "One day, there was a small bird in its nest."
+      },
+      {
+        "japanese": "とりは そらを とぶ ことを ゆめに みて いました。",
+        "romaji": "Tori wa sora o tobu koto o yume ni mite imashita.",
+        "id": "Burung itu bermimpi untuk terbang di langit.",
+        "en": "The bird dreamed of flying in the sky."
+      },
+      {
+        "japanese": "あるあさ、とりは すの そとに でました。",
+        "romaji": "Aru asa, tori wa su no soto ni demashita.",
+        "id": "Suatu pagi, burung itu keluar dari sarangnya.",
+        "en": "One morning, the bird went outside its nest."
+      },
+      {
+        "japanese": "でも、たかくて こわく なりました。",
+        "romaji": "Demo, takakute kowaku narimashita.",
+        "id": "Namun, tempat itu tinggi dan ia menjadi takut.",
+        "en": "But it was high, and the bird became scared."
+      },
+      {
+        "japanese": "とりは つばさを ひろげて、",
+        "romaji": "Tori wa tsubasa o hirogete,",
+        "id": "Burung itu membuka sayapnya,",
+        "en": "The bird spread its wings,"
+      },
+      {
+        "japanese": "「だいじょうぶ」と じぶんに いいました。",
+        "romaji": "“Daijoubu” to jibun ni iimashita.",
+        "id": "dan berkata pada dirinya sendiri, “Tidak apa-apa.”",
+        "en": "and said to itself, “It’s okay.”"
+      },
+      {
+        "japanese": "ゆうきを だして、そらへ とびました。",
+        "romaji": "Yuuki o dashite, sora e tobimashita.",
+        "id": "Dengan berani, ia terbang menuju langit.",
+        "en": "Gathering its courage, it flew into the sky."
+      },
+      {
+        "japanese": "かぜは やさしく からだを ささえました。",
+        "romaji": "Kaze wa yasashiku karada o sasaemashita.",
+        "id": "Angin dengan lembut menopang tubuhnya.",
+        "en": "The wind gently supported its body."
+      },
+      {
+        "japanese": "とりは そらで にっこり わらいました。",
+        "romaji": "Tori wa sora de nikkori waraimashita.",
+        "id": "Burung itu tersenyum di langit.",
+        "en": "The bird smiled in the sky."
+      },
+      {
+        "japanese": "「ゆめは かなう」と こころで かんじました。",
+        "romaji": "“Yume wa kanau” to kokoro de kanjimashita.",
+        "id": "Ia merasa dalam hatinya, “Mimpi bisa terwujud.”",
+        "en": "It felt in its heart, “Dreams can come true.”"
+      }
+    ],
+    "moral": {
+      "japanese": "ゆうきを だせば、あたらしい せかいが ひらける。",
+      "id": "Jika berani melangkah, dunia baru akan terbuka.",
+      "en": "When you find the courage, a new world opens."
     }
-  ],
-  "moral": {
-    "japanese": "ゆうきを だせば、あたらしい せかいが ひらける。",
-    "id": "Jika berani melangkah, dunia baru akan terbuka.",
-    "en": "When you find the courage, a new world opens."
   }
+  ]
 }
-]
