@@ -15,35 +15,40 @@
               "romaji": "a",
               "example": "あひる",
               "read": "ahiru",
-              "meaning": "duck"
+              "meaning": "duck",
+              "has_image": true
             },
             {
               "character": "い",
               "romaji": "i",
               "example": "いぬ",
               "read": "inu",
-              "meaning": "dog"
+              "meaning": "dog",
+              "has_image": true
             },
             {
               "character": "う",
               "romaji": "u",
               "example": "うし",
               "read": "ushi",
-              "meaning": "cow"
+              "meaning": "cow",
+              "has_image": true
             },
             {
               "character": "え",
               "romaji": "e",
               "example": "えび",
               "read": "ebi",
-              "meaning": "shrimp"
+              "meaning": "shrimp",
+              "has_image": true
             },
             {
               "character": "お",
               "romaji": "o",
               "example": "おうむ",
               "read": "oumu",
-              "meaning": "parrot"
+              "meaning": "parrot",
+              "has_image": true
             }
           ]
         },
@@ -55,35 +60,40 @@
               "romaji": "ka",
               "example": "かめ",
               "read": "kame",
-              "meaning": "turtle"
+              "meaning": "turtle",
+              "has_image": true
             },
             {
               "character": "き",
               "romaji": "ki",
               "example": "きりん",
               "read": "kirin",
-              "meaning": "giraffe"
+              "meaning": "giraffe",
+              "has_image": true
             },
             {
               "character": "く",
               "romaji": "ku",
               "example": "くわがた",
               "read": "kuwagata",
-              "meaning": "stag beetle"
+              "meaning": "stag beetle",
+              "has_image": true
             },
             {
               "character": "け",
               "romaji": "ke",
               "example": "けいと",
               "read": "keito",
-              "meaning": "yarn"
+              "meaning": "yarn",
+              "has_image": true
             },
             {
               "character": "こ",
               "romaji": "ko",
               "example": "こい",
               "read": "koi",
-              "meaning": "carp"
+              "meaning": "carp",
+              "has_image": true
             }
           ]
         },
@@ -95,35 +105,40 @@
               "romaji": "sa",
               "example": "さい",
               "read": "sai",
-              "meaning": "rhinoceros"
+              "meaning": "rhinoceros",
+              "has_image": true
             },
             {
               "character": "し",
               "romaji": "shi",
               "example": "しまうま",
               "read": "shimauma",
-              "meaning": "zebra"
+              "meaning": "zebra",
+              "has_image": true
             },
             {
               "character": "す",
               "romaji": "su",
               "example": "すずめ",
               "read": "suzume",
-              "meaning": "sparrow"
+              "meaning": "sparrow",
+              "has_image": true
             },
             {
               "character": "せ",
               "romaji": "se",
               "example": "せみ",
               "read": "semi",
-              "meaning": "cicada"
+              "meaning": "cicada",
+              "has_image": true
             },
             {
               "character": "そ",
               "romaji": "so",
               "example": "そば",
               "read": "soba",
-              "meaning": "buckwheat noodles"
+              "meaning": "buckwheat noodles",
+              "has_image": true
             }
           ]
         },
@@ -135,35 +150,40 @@
               "romaji": "ta",
               "example": "たこ",
               "read": "tako",
-              "meaning": "octopus"
+              "meaning": "octopus",
+              "has_image": true
             },
             {
               "character": "ち",
               "romaji": "chi",
               "example": "ちくわ",
               "read": "chikuwa",
-              "meaning": "fish cake tube"
+              "meaning": "fish cake tube",
+              "has_image": true
             },
             {
               "character": "つ",
               "romaji": "tsu",
               "example": "つみき",
               "read": "tsumiki",
-              "meaning": "building blocks"
+              "meaning": "building blocks",
+              "has_image": true
             },
             {
               "character": "て",
               "romaji": "te",
               "example": "てぶくろ",
               "read": "tebukuro",
-              "meaning": "gloves"
+              "meaning": "gloves",
+              "has_image": true
             },
             {
               "character": "と",
               "romaji": "to",
               "example": "とんぼ",
               "read": "tonbo",
-              "meaning": "dragonfly"
+              "meaning": "dragonfly",
+              "has_image": true
             }
           ]
         },
@@ -175,35 +195,40 @@
               "romaji": "na",
               "example": "なす",
               "read": "nasu",
-              "meaning": "eggplant"
+              "meaning": "eggplant",
+              "has_image": true
             },
             {
               "character": "に",
               "romaji": "ni",
               "example": "にんじん",
               "read": "ninjin",
-              "meaning": "carrot"
+              "meaning": "carrot",
+              "has_image": true
             },
             {
               "character": "ぬ",
               "romaji": "nu",
               "example": "ぬの",
               "read": "nuno",
-              "meaning": "cloth"
+              "meaning": "cloth",
+              "has_image": true
             },
             {
               "character": "ね",
               "romaji": "ne",
               "example": "ねこ",
               "read": "neko",
-              "meaning": "cat"
+              "meaning": "cat",
+              "has_image": true
             },
             {
               "character": "の",
               "romaji": "no",
               "example": "のこぎり",
               "read": "nokogiri",
-              "meaning": "saw"
+              "meaning": "saw",
+              "has_image": true
             }
           ]
         },
@@ -215,35 +240,40 @@
               "romaji": "ha",
               "example": "はし",
               "read": "hashi",
-              "meaning": "chopsticks"
+              "meaning": "chopsticks",
+              "has_image": true
             },
             {
               "character": "ひ",
               "romaji": "hi",
               "example": "ひとで",
               "read": "hitode",
-              "meaning": "starfish"
+              "meaning": "starfish",
+              "has_image": true
             },
             {
               "character": "ふ",
               "romaji": "fu",
               "example": "ふうせん",
               "read": "fuusen",
-              "meaning": "balloon"
+              "meaning": "balloon",
+              "has_image": true
             },
             {
               "character": "へ",
               "romaji": "he",
               "example": "へび",
               "read": "hebi",
-              "meaning": "snake"
+              "meaning": "snake",
+              "has_image": true
             },
             {
               "character": "ほ",
               "romaji": "ho",
               "example": "ほん",
               "read": "hon",
-              "meaning": "book"
+              "meaning": "book",
+              "has_image": true
             }
           ]
         },
@@ -255,35 +285,40 @@
               "romaji": "ma",
               "example": "まめ",
               "read": "mame",
-              "meaning": "beans"
+              "meaning": "beans",
+              "has_image": true
             },
             {
               "character": "み",
               "romaji": "mi",
               "example": "みかん",
               "read": "mikan",
-              "meaning": "orange"
+              "meaning": "orange",
+              "has_image": true
             },
             {
               "character": "む",
               "romaji": "mu",
               "example": "むし",
               "read": "mushi",
-              "meaning": "caterpillar"
+              "meaning": "caterpillar",
+              "has_image": true
             },
             {
               "character": "め",
               "romaji": "me",
               "example": "めろん",
               "read": "meron",
-              "meaning": "melon"
+              "meaning": "melon",
+              "has_image": true
             },
             {
               "character": "も",
               "romaji": "mo",
               "example": "もも",
               "read": "momo",
-              "meaning": "peach"
+              "meaning": "peach",
+              "has_image": true
             }
           ]
         },
@@ -295,21 +330,24 @@
               "romaji": "ya",
               "example": "やぎ",
               "read": "yagi",
-              "meaning": "goat"
+              "meaning": "goat",
+              "has_image": true
             },
             {
               "character": "ゆ",
               "romaji": "yu",
               "example": "ゆり",
               "read": "yuri",
-              "meaning": "lily"
+              "meaning": "lily",
+              "has_image": true
             },
             {
               "character": "よ",
               "romaji": "yo",
               "example": "よっと",
               "read": "yotto",
-              "meaning": "yacht"
+              "meaning": "yacht",
+              "has_image": true
             }
           ]
         },
@@ -321,35 +359,40 @@
               "romaji": "ra",
               "example": "らっぱ",
               "read": "rappa",
-              "meaning": "trumpet"
+              "meaning": "trumpet",
+              "has_image": true
             },
             {
               "character": "り",
               "romaji": "ri",
               "example": "りぼん",
               "read": "ribon",
-              "meaning": "ribbon"
+              "meaning": "ribbon",
+              "has_image": true
             },
             {
               "character": "る",
               "romaji": "ru",
               "example": "るああ",
               "read": "ruaa",
-              "meaning": "parakeet"
+              "meaning": "parakeet",
+              "has_image": true
             },
             {
               "character": "れ",
               "romaji": "re",
               "example": "れもん",
               "read": "remon",
-              "meaning": "lemon"
+              "meaning": "lemon",
+              "has_image": true
             },
             {
               "character": "ろ",
               "romaji": "ro",
               "example": "ろうそく",
               "read": "rousoku",
-              "meaning": "candle"
+              "meaning": "candle",
+              "has_image": true
             }
           ]
         },
@@ -361,14 +404,16 @@
               "romaji": "wa",
               "example": "わに",
               "read": "wani",
-              "meaning": "crocodile"
+              "meaning": "crocodile",
+              "has_image": true
             },
             {
               "character": "を",
               "romaji": "wo",
               "example": "えをかく",
               "read": "e wo kaku",
-              "meaning": "draw a picture"
+              "meaning": "draw a picture",
+              "has_image": true
             }
           ]
         },
@@ -380,7 +425,8 @@
               "romaji": "n",
               "example": "かばん",
               "read": "kaban",
-              "meaning": "bag"
+              "meaning": "bag",
+              "has_image": true
             }
           ]
         },
@@ -392,35 +438,40 @@
               "romaji": "ga",
               "example": "がっこう",
               "read": "gakkou",
-              "meaning": "school"
+              "meaning": "school",
+              "has_image": false
             },
             {
               "character": "ぎ",
               "romaji": "gi",
               "example": "ぎんこう",
               "read": "ginkou",
-              "meaning": "bank"
+              "meaning": "bank",
+              "has_image": false
             },
             {
               "character": "ぐ",
               "romaji": "gu",
               "example": "ぐうぜん",
               "read": "guuzen",
-              "meaning": "coincidence"
+              "meaning": "coincidence",
+              "has_image": false
             },
             {
               "character": "げ",
               "romaji": "ge",
               "example": "げんき",
               "read": "genki",
-              "meaning": "healthy/energetic"
+              "meaning": "healthy/energetic",
+              "has_image": false
             },
             {
               "character": "ご",
               "romaji": "go",
               "example": "ごはん",
               "read": "gohan",
-              "meaning": "rice/meal"
+              "meaning": "rice/meal",
+              "has_image": false
             }
           ]
         },
@@ -432,35 +483,40 @@
               "romaji": "za",
               "example": "ざっし",
               "read": "zasshi",
-              "meaning": "magazine"
+              "meaning": "magazine",
+              "has_image": false
             },
             {
               "character": "じ",
               "romaji": "ji",
               "example": "じかん",
               "read": "jikan",
-              "meaning": "time"
+              "meaning": "time",
+              "has_image": false
             },
             {
               "character": "ず",
               "romaji": "zu",
               "example": "ずっと",
               "read": "zutto",
-              "meaning": "always"
+              "meaning": "always",
+              "has_image": false
             },
             {
               "character": "ぜ",
               "romaji": "ze",
               "example": "ぜんぶ",
               "read": "zenbu",
-              "meaning": "all"
+              "meaning": "all",
+              "has_image": false
             },
             {
               "character": "ぞ",
               "romaji": "zo",
               "example": "ぞう",
               "read": "zou",
-              "meaning": "elephant"
+              "meaning": "elephant",
+              "has_image": false
             }
           ]
         },
@@ -472,35 +528,40 @@
               "romaji": "da",
               "example": "だいがく",
               "read": "daigaku",
-              "meaning": "university"
+              "meaning": "university",
+              "has_image": false
             },
             {
               "character": "ぢ",
               "romaji": "ji",
               "example": "はなぢ",
               "read": "hanaji",
-              "meaning": "nosebleed"
+              "meaning": "nosebleed",
+              "has_image": false
             },
             {
               "character": "づ",
               "romaji": "zu",
               "example": "つづく",
               "read": "tsuzuku",
-              "meaning": "to continue"
+              "meaning": "to continue",
+              "has_image": false
             },
             {
               "character": "で",
               "romaji": "de",
               "example": "でんわ",
               "read": "denwa",
-              "meaning": "telephone"
+              "meaning": "telephone",
+              "has_image": false
             },
             {
               "character": "ど",
               "romaji": "do",
               "example": "どうぶつ",
               "read": "doubutsu",
-              "meaning": "animal"
+              "meaning": "animal",
+              "has_image": false
             }
           ]
         },
@@ -512,35 +573,40 @@
               "romaji": "ba",
               "example": "ばしょ",
               "read": "basho",
-              "meaning": "place"
+              "meaning": "place",
+              "has_image": false
             },
             {
               "character": "び",
               "romaji": "bi",
               "example": "びじゅつ",
               "read": "bijutsu",
-              "meaning": "art"
+              "meaning": "art",
+              "has_image": false
             },
             {
               "character": "ぶ",
               "romaji": "bu",
               "example": "ぶんか",
               "read": "bunka",
-              "meaning": "culture"
+              "meaning": "culture",
+              "has_image": false
             },
             {
               "character": "べ",
               "romaji": "be",
               "example": "べんきょう",
               "read": "benkyou",
-              "meaning": "study"
+              "meaning": "study",
+              "has_image": false
             },
             {
               "character": "ぼ",
               "romaji": "bo",
               "example": "ぼうし",
               "read": "boushi",
-              "meaning": "hat"
+              "meaning": "hat",
+              "has_image": false
             }
           ]
         },
@@ -552,35 +618,40 @@
               "romaji": "pa",
               "example": "ぱん",
               "read": "pan",
-              "meaning": "bread"
+              "meaning": "bread",
+              "has_image": false
             },
             {
               "character": "ぴ",
               "romaji": "pi",
               "example": "ぴあの",
               "read": "piano",
-              "meaning": "piano"
+              "meaning": "piano",
+              "has_image": false
             },
             {
               "character": "ぷ",
               "romaji": "pu",
               "example": "ぷれぜんと",
               "read": "purezento",
-              "meaning": "present"
+              "meaning": "present",
+              "has_image": false
             },
             {
               "character": "ぺ",
               "romaji": "pe",
               "example": "ぺん",
               "read": "pen",
-              "meaning": "pen"
+              "meaning": "pen",
+              "has_image": false
             },
             {
               "character": "ぽ",
               "romaji": "po",
               "example": "ぽけっと",
               "read": "poketto",
-              "meaning": "pocket"
+              "meaning": "pocket",
+              "has_image": false
             }
           ]
         },
@@ -592,231 +663,264 @@
               "romaji": "kya",
               "example": "きゃく",
               "read": "kyaku",
-              "meaning": "guest"
+              "meaning": "guest",
+              "has_image": false
             },
             {
               "character": "きゅ",
               "romaji": "kyu",
               "example": "きゅうり",
               "read": "kyuuri",
-              "meaning": "cucumber"
+              "meaning": "cucumber",
+              "has_image": false
             },
             {
               "character": "きょ",
               "romaji": "kyo",
               "example": "きょう",
               "read": "kyou",
-              "meaning": "today"
+              "meaning": "today",
+              "has_image": false
             },
             {
               "character": "しゃ",
               "romaji": "sha",
               "example": "しゃしん",
               "read": "shashin",
-              "meaning": "photo"
+              "meaning": "photo",
+              "has_image": false
             },
             {
               "character": "しゅ",
               "romaji": "shu",
               "example": "しゅくだい",
               "read": "shukudai",
-              "meaning": "homework"
+              "meaning": "homework",
+              "has_image": false
             },
             {
               "character": "しょ",
               "romaji": "sho",
               "example": "しょうゆ",
               "read": "shouyu",
-              "meaning": "soy sauce"
+              "meaning": "soy sauce",
+              "has_image": false
             },
             {
               "character": "ちゃ",
               "romaji": "cha",
               "example": "おちゃ",
               "read": "ocha",
-              "meaning": "tea"
+              "meaning": "tea",
+              "has_image": false
             },
             {
               "character": "ちゅ",
               "romaji": "chu",
               "example": "ちゅうごく",
               "read": "chuugoku",
-              "meaning": "China"
+              "meaning": "China",
+              "has_image": false
             },
             {
               "character": "ちょ",
               "romaji": "cho",
               "example": "ちょっと",
               "read": "chotto",
-              "meaning": "a little"
+              "meaning": "a little",
+              "has_image": false
             },
             {
               "character": "にゃ",
               "romaji": "nya",
               "example": "にゃんこ",
               "read": "nyanko",
-              "meaning": "kitty"
+              "meaning": "kitty",
+              "has_image": false
             },
             {
               "character": "にゅ",
               "romaji": "nyu",
               "example": "にゅうがく",
               "read": "nyuugaku",
-              "meaning": "enrollment"
+              "meaning": "enrollment",
+              "has_image": false
             },
             {
               "character": "にょ",
               "romaji": "nyo",
               "example": "にょうぼう",
               "read": "nyoubou",
-              "meaning": "wife"
+              "meaning": "wife",
+              "has_image": false
             },
             {
               "character": "ひゃ",
               "romaji": "hya",
               "example": "ひゃく",
               "read": "hyaku",
-              "meaning": "hundred"
+              "meaning": "hundred",
+              "has_image": false
             },
             {
               "character": "ひゅ",
               "romaji": "hyu",
               "example": "ひゅうが",
               "read": "hyuuga",
-              "meaning": "sun facing"
+              "meaning": "sun facing",
+              "has_image": false
             },
             {
               "character": "ひょ",
               "romaji": "hyo",
               "example": "ひょう",
               "read": "hyou",
-              "meaning": "leopard"
+              "meaning": "leopard",
+              "has_image": false
             },
             {
               "character": "みゃ",
               "romaji": "mya",
               "example": "みゃく",
               "read": "myaku",
-              "meaning": "pulse"
+              "meaning": "pulse",
+              "has_image": false
             },
             {
               "character": "みゅ",
               "romaji": "myu",
               "example": "みゅーじっく",
               "read": "myuujikku",
-              "meaning": "music"
+              "meaning": "music",
+              "has_image": false
             },
             {
               "character": "みょ",
               "romaji": "myo",
               "example": "みょうじ",
               "read": "myouji",
-              "meaning": "surname"
+              "meaning": "surname",
+              "has_image": false
             },
             {
               "character": "りゃ",
               "romaji": "rya",
               "example": "りゃくご",
               "read": "ryakugo",
-              "meaning": "abbreviation"
+              "meaning": "abbreviation",
+              "has_image": false
             },
             {
               "character": "りゅ",
               "romaji": "ryu",
               "example": "りゅう",
               "read": "ryuu",
-              "meaning": "dragon"
+              "meaning": "dragon",
+              "has_image": false
             },
             {
               "character": "りょ",
               "romaji": "ryo",
               "example": "りょこう",
               "read": "ryokou",
-              "meaning": "travel"
+              "meaning": "travel",
+              "has_image": false
             },
             {
               "character": "ぎゃ",
               "romaji": "gya",
               "example": "ぎゃく",
               "read": "gyaku",
-              "meaning": "reverse"
+              "meaning": "reverse",
+              "has_image": false
             },
             {
               "character": "ぎゅ",
               "romaji": "gyu",
               "example": "ぎゅうにゅう",
               "read": "gyuunyuu",
-              "meaning": "milk"
+              "meaning": "milk",
+              "has_image": false
             },
             {
               "character": "ぎょ",
               "romaji": "gyo",
               "example": "ぎょうれつ",
               "read": "gyouretsu",
-              "meaning": "line/queue"
+              "meaning": "line/queue",
+              "has_image": false
             },
             {
               "character": "じゃ",
               "romaji": "ja",
               "example": "じゃがいも",
               "read": "jagaimo",
-              "meaning": "potato"
+              "meaning": "potato",
+              "has_image": false
             },
             {
               "character": "じゅ",
               "romaji": "ju",
               "example": "じゅうしょ",
               "read": "juusho",
-              "meaning": "address"
+              "meaning": "address",
+              "has_image": false
             },
             {
               "character": "じょ",
               "romaji": "jo",
               "example": "じょうず",
               "read": "jouzu",
-              "meaning": "skillful"
+              "meaning": "skillful",
+              "has_image": false
             },
             {
               "character": "びゃ",
               "romaji": "bya",
               "example": "びゃくや",
               "read": "byakuya",
-              "meaning": "white night"
+              "meaning": "white night",
+              "has_image": false
             },
             {
               "character": "びゅ",
               "romaji": "byu",
               "example": "びゅーてぃー",
               "read": "byuutii",
-              "meaning": "beauty"
+              "meaning": "beauty",
+              "has_image": false
             },
             {
               "character": "びょ",
               "romaji": "byo",
               "example": "びょういん",
               "read": "byouin",
-              "meaning": "hospital"
+              "meaning": "hospital",
+              "has_image": false
             },
             {
               "character": "ぴゃ",
               "romaji": "pya",
               "example": "ろっぴゃく",
               "read": "roppyaku",
-              "meaning": "six hundred"
+              "meaning": "six hundred",
+              "has_image": false
             },
             {
               "character": "ぴゅ",
               "romaji": "pyu",
               "example": "ぴゅーれ",
               "read": "pyuure",
-              "meaning": "puree"
+              "meaning": "puree",
+              "has_image": false
             },
             {
               "character": "ぴょ",
               "romaji": "pyo",
               "example": "ぴょんぴょん",
               "read": "pyonpyon",
-              "meaning": "hopping"
+              "meaning": "hopping",
+              "has_image": false
             }
           ]
         }
@@ -835,35 +939,40 @@
               "romaji": "a",
               "example": "アイロン",
               "read": "airon",
-              "meaning": "iron"
+              "meaning": "iron",
+              "has_image": true
             },
             {
               "character": "イ",
               "romaji": "i",
               "example": "インク",
               "read": "inku",
-              "meaning": "ink"
+              "meaning": "ink",
+              "has_image": true
             },
             {
               "character": "ウ",
               "romaji": "u",
               "example": "ウインナー",
               "read": "uinnaa",
-              "meaning": "wiener"
+              "meaning": "wiener",
+              "has_image": true
             },
             {
               "character": "エ",
               "romaji": "e",
               "example": "エプロン",
               "read": "epuron",
-              "meaning": "apron"
+              "meaning": "apron",
+              "has_image": true
             },
             {
               "character": "オ",
               "romaji": "o",
               "example": "オートバイ",
               "read": "ootobai",
-              "meaning": "motorcycle"
+              "meaning": "motorcycle",
+              "has_image": true
             }
           ]
         },
@@ -875,35 +984,40 @@
               "romaji": "ka",
               "example": "カーネーション",
               "read": "kaaneeshon",
-              "meaning": "carnation"
+              "meaning": "carnation",
+              "has_image": true
             },
             {
               "character": "キ",
               "romaji": "ki",
               "example": "キャベツ",
               "read": "kyabetsu",
-              "meaning": "cabbage"
+              "meaning": "cabbage",
+              "has_image": true
             },
             {
               "character": "ク",
               "romaji": "ku",
               "example": "クレヨン",
               "read": "kureyon",
-              "meaning": "crayon"
+              "meaning": "crayon",
+              "has_image": true
             },
             {
               "character": "ケ",
               "romaji": "ke",
               "example": "ケーキ",
               "read": "keeki",
-              "meaning": "cake"
+              "meaning": "cake",
+              "has_image": true
             },
             {
               "character": "コ",
               "romaji": "ko",
               "example": "コップ",
               "read": "koppu",
-              "meaning": "cup"
+              "meaning": "cup",
+              "has_image": true
             }
           ]
         },
@@ -915,35 +1029,40 @@
               "romaji": "sa",
               "example": "サボテン",
               "read": "saboten",
-              "meaning": "cactus"
+              "meaning": "cactus",
+              "has_image": true
             },
             {
               "character": "シ",
               "romaji": "shi",
               "example": "シーソー",
               "read": "shiisoo",
-              "meaning": "seesaw"
+              "meaning": "seesaw",
+              "has_image": true
             },
             {
               "character": "ス",
               "romaji": "su",
               "example": "スリッパ",
               "read": "surippa",
-              "meaning": "slippers"
+              "meaning": "slippers",
+              "has_image": true
             },
             {
               "character": "セ",
               "romaji": "se",
               "example": "セロテープ",
               "read": "seroteepu",
-              "meaning": "cellophane tape"
+              "meaning": "cellophane tape",
+              "has_image": true
             },
             {
               "character": "ソ",
               "romaji": "so",
               "example": "ソファ",
               "read": "sofa",
-              "meaning": "sofa"
+              "meaning": "sofa",
+              "has_image": true
             }
           ]
         },
@@ -955,35 +1074,40 @@
               "romaji": "ta",
               "example": "タオル",
               "read": "taoru",
-              "meaning": "towel"
+              "meaning": "towel",
+              "has_image": true
             },
             {
               "character": "チ",
               "romaji": "chi",
               "example": "チョコレート",
               "read": "chokoreeto",
-              "meaning": "chocolate"
+              "meaning": "chocolate",
+              "has_image": true
             },
             {
               "character": "ツ",
               "romaji": "tsu",
               "example": "バケツ",
               "read": "baketsu",
-              "meaning": "bucket"
+              "meaning": "bucket",
+              "has_image": true
             },
             {
               "character": "テ",
               "romaji": "te",
               "example": "テント",
               "read": "tento",
-              "meaning": "tent"
+              "meaning": "tent",
+              "has_image": true
             },
             {
               "character": "ト",
               "romaji": "to",
               "example": "トランプ",
               "read": "toranpu",
-              "meaning": "playing cards"
+              "meaning": "playing cards",
+              "has_image": true
             }
           ]
         },
@@ -995,35 +1119,40 @@
               "romaji": "na",
               "example": "ナイフ",
               "read": "naifu",
-              "meaning": "knife"
+              "meaning": "knife",
+              "has_image": true
             },
             {
               "character": "ニ",
               "romaji": "ni",
               "example": "ニュース",
               "read": "nyuusu",
-              "meaning": "news"
+              "meaning": "news",
+              "has_image": true
             },
             {
               "character": "ヌ",
               "romaji": "nu",
               "example": "ヌー",
               "read": "nuu",
-              "meaning": "gnu"
+              "meaning": "gnu",
+              "has_image": true
             },
             {
               "character": "ネ",
               "romaji": "ne",
               "example": "ネクタイ",
               "read": "nekutai",
-              "meaning": "necktie"
+              "meaning": "necktie",
+              "has_image": true
             },
             {
               "character": "ノ",
               "romaji": "no",
               "example": "ノート",
               "read": "nooto",
-              "meaning": "notebook"
+              "meaning": "notebook",
+              "has_image": true
             }
           ]
         },
@@ -1035,35 +1164,40 @@
               "romaji": "ha",
               "example": "ハンガー",
               "read": "hangaa",
-              "meaning": "hanger"
+              "meaning": "hanger",
+              "has_image": true
             },
             {
               "character": "ヒ",
               "romaji": "hi",
               "example": "ヒーター",
               "read": "hiitaa",
-              "meaning": "heater"
+              "meaning": "heater",
+              "has_image": true
             },
             {
               "character": "フ",
               "romaji": "fu",
               "example": "フライパン",
               "read": "furaipan",
-              "meaning": "frying pan"
+              "meaning": "frying pan",
+              "has_image": true
             },
             {
               "character": "ヘ",
               "romaji": "he",
               "example": "ヘルメット",
               "read": "herumetto",
-              "meaning": "helmet"
+              "meaning": "helmet",
+              "has_image": true
             },
             {
               "character": "ホ",
               "romaji": "ho",
               "example": "ホットケーキ",
               "read": "hottokeki",
-              "meaning": "hotcake"
+              "meaning": "hotcake",
+              "has_image": true
             }
           ]
         },
@@ -1075,35 +1209,40 @@
               "romaji": "ma",
               "example": "マフラー",
               "read": "mafuraa",
-              "meaning": "scarf"
+              "meaning": "scarf",
+              "has_image": true
             },
             {
               "character": "ミ",
               "romaji": "mi",
               "example": "ミニカー",
               "read": "minikaa",
-              "meaning": "toy car"
+              "meaning": "toy car",
+              "has_image": true
             },
             {
               "character": "ム",
               "romaji": "mu",
               "example": "ガム",
               "read": "gamu",
-              "meaning": "gum"
+              "meaning": "gum",
+              "has_image": true
             },
             {
               "character": "メ",
               "romaji": "me",
               "example": "メダル",
               "read": "medaru",
-              "meaning": "medal"
+              "meaning": "medal",
+              "has_image": true
             },
             {
               "character": "モ",
               "romaji": "mo",
               "example": "モーターボート",
               "read": "mootaabooto",
-              "meaning": "motorboat"
+              "meaning": "motorboat",
+              "has_image": true
             }
           ]
         },
@@ -1115,21 +1254,24 @@
               "romaji": "ya",
               "example": "タイヤ",
               "read": "taiya",
-              "meaning": "tire"
+              "meaning": "tire",
+              "has_image": true
             },
             {
               "character": "ユ",
               "romaji": "yu",
               "example": "ユーフォー",
               "read": "yuufoo",
-              "meaning": "UFO"
+              "meaning": "UFO",
+              "has_image": true
             },
             {
               "character": "ヨ",
               "romaji": "yo",
               "example": "ヨーヨー",
               "read": "yooyoo",
-              "meaning": "yo-yo"
+              "meaning": "yo-yo",
+              "has_image": true
             }
           ]
         },
@@ -1141,35 +1283,40 @@
               "romaji": "ra",
               "example": "ラーメン",
               "read": "raamen",
-              "meaning": "ramen"
+              "meaning": "ramen",
+              "has_image": true
             },
             {
               "character": "リ",
               "romaji": "ri",
               "example": "リュック",
               "read": "ryukku",
-              "meaning": "backpack"
+              "meaning": "backpack",
+              "has_image": true
             },
             {
               "character": "ル",
               "romaji": "ru",
               "example": "ルビー",
               "read": "rubii",
-              "meaning": "ruby"
+              "meaning": "ruby",
+              "has_image": true
             },
             {
               "character": "レ",
               "romaji": "re",
               "example": "レインコート",
               "read": "reinkooto",
-              "meaning": "raincoat"
+              "meaning": "raincoat",
+              "has_image": true
             },
             {
               "character": "ロ",
               "romaji": "ro",
               "example": "ローラースケート",
               "read": "rooraasuketo",
-              "meaning": "roller skate"
+              "meaning": "roller skate",
+              "has_image": true
             }
           ]
         },
@@ -1181,14 +1328,16 @@
               "romaji": "wa",
               "example": "ワイシャツ",
               "read": "waishatsu",
-              "meaning": "dress shirt"
+              "meaning": "dress shirt",
+              "has_image": true
             },
             {
               "character": "ヲ",
               "romaji": "wo",
               "example": "ヲ",
               "read": "wo",
-              "meaning": "object marker particle"
+              "meaning": "object marker particle",
+              "has_image": false
             }
           ]
         },
@@ -1200,7 +1349,8 @@
               "romaji": "n",
               "example": "バン",
               "read": "ban",
-              "meaning": "van"
+              "meaning": "van",
+              "has_image": true
             }
           ]
         },
@@ -1212,35 +1362,40 @@
               "romaji": "ga",
               "example": "ガソリン",
               "read": "gasorin",
-              "meaning": "gasoline"
+              "meaning": "gasoline",
+              "has_image": false
             },
             {
               "character": "ギ",
               "romaji": "gi",
               "example": "ギター",
               "read": "gitaa",
-              "meaning": "guitar"
+              "meaning": "guitar",
+              "has_image": false
             },
             {
               "character": "グ",
               "romaji": "gu",
               "example": "グループ",
               "read": "guruupu",
-              "meaning": "group"
+              "meaning": "group",
+              "has_image": false
             },
             {
               "character": "ゲ",
               "romaji": "ge",
               "example": "ゲーム",
               "read": "geemu",
-              "meaning": "game"
+              "meaning": "game",
+              "has_image": false
             },
             {
               "character": "ゴ",
               "romaji": "go",
               "example": "ゴルフ",
               "read": "gorufu",
-              "meaning": "golf"
+              "meaning": "golf",
+              "has_image": false
             }
           ]
         },
@@ -1252,35 +1407,40 @@
               "romaji": "za",
               "example": "ピザ",
               "read": "piza",
-              "meaning": "pizza"
+              "meaning": "pizza",
+              "has_image": false
             },
             {
               "character": "ジ",
               "romaji": "ji",
               "example": "ジュース",
               "read": "juusu",
-              "meaning": "juice"
+              "meaning": "juice",
+              "has_image": false
             },
             {
               "character": "ズ",
               "romaji": "zu",
               "example": "チーズ",
               "read": "chiizu",
-              "meaning": "cheese"
+              "meaning": "cheese",
+              "has_image": false
             },
             {
               "character": "ゼ",
               "romaji": "ze",
               "example": "ゼロ",
               "read": "zero",
-              "meaning": "zero"
+              "meaning": "zero",
+              "has_image": false
             },
             {
               "character": "ゾ",
               "romaji": "zo",
               "example": "ゾーン",
               "read": "zoon",
-              "meaning": "zone"
+              "meaning": "zone",
+              "has_image": false
             }
           ]
         },
@@ -1292,35 +1452,40 @@
               "romaji": "da",
               "example": "ダンス",
               "read": "dansu",
-              "meaning": "dance"
+              "meaning": "dance",
+              "has_image": false
             },
             {
               "character": "ヂ",
               "romaji": "ji",
               "example": "エヂソン",
               "read": "ejison",
-              "meaning": "Edison"
+              "meaning": "Edison",
+              "has_image": false
             },
             {
               "character": "ヅ",
               "romaji": "zu",
               "example": "ゴヅ",
               "read": "gozu",
-              "meaning": "Godzilla variant"
+              "meaning": "Godzilla variant",
+              "has_image": false
             },
             {
               "character": "デ",
               "romaji": "de",
               "example": "デザイン",
               "read": "dezain",
-              "meaning": "design"
+              "meaning": "design",
+              "has_image": false
             },
             {
               "character": "ド",
               "romaji": "do",
               "example": "ドア",
               "read": "doa",
-              "meaning": "door"
+              "meaning": "door",
+              "has_image": false
             }
           ]
         },
@@ -1332,35 +1497,40 @@
               "romaji": "ba",
               "example": "バス",
               "read": "basu",
-              "meaning": "bus"
+              "meaning": "bus",
+              "has_image": false
             },
             {
               "character": "ビ",
               "romaji": "bi",
               "example": "ビール",
               "read": "biiru",
-              "meaning": "beer"
+              "meaning": "beer",
+              "has_image": false
             },
             {
               "character": "ブ",
               "romaji": "bu",
               "example": "ブログ",
               "read": "burogu",
-              "meaning": "blog"
+              "meaning": "blog",
+              "has_image": false
             },
             {
               "character": "ベ",
               "romaji": "be",
               "example": "ベッド",
               "read": "beddo",
-              "meaning": "bed"
+              "meaning": "bed",
+              "has_image": false
             },
             {
               "character": "ボ",
               "romaji": "bo",
               "example": "ボール",
               "read": "booru",
-              "meaning": "ball"
+              "meaning": "ball",
+              "has_image": false
             }
           ]
         },
@@ -1372,35 +1542,40 @@
               "romaji": "pa",
               "example": "パーティー",
               "read": "paatii",
-              "meaning": "party"
+              "meaning": "party",
+              "has_image": false
             },
             {
               "character": "ピ",
               "romaji": "pi",
               "example": "ピアノ",
               "read": "piano",
-              "meaning": "piano"
+              "meaning": "piano",
+              "has_image": false
             },
             {
               "character": "プ",
               "romaji": "pu",
               "example": "プール",
               "read": "puuru",
-              "meaning": "pool"
+              "meaning": "pool",
+              "has_image": false
             },
             {
               "character": "ペ",
               "romaji": "pe",
               "example": "ペン",
               "read": "pen",
-              "meaning": "pen"
+              "meaning": "pen",
+              "has_image": false
             },
             {
               "character": "ポ",
               "romaji": "po",
               "example": "ポスト",
               "read": "posuto",
-              "meaning": "post"
+              "meaning": "post",
+              "has_image": false
             }
           ]
         },
@@ -1412,231 +1587,264 @@
               "romaji": "kya",
               "example": "キャンプ",
               "read": "kyanpu",
-              "meaning": "camp"
+              "meaning": "camp",
+              "has_image": false
             },
             {
               "character": "キュ",
               "romaji": "kyu",
               "example": "キュート",
               "read": "kyuuto",
-              "meaning": "cute"
+              "meaning": "cute",
+              "has_image": false
             },
             {
               "character": "キョ",
               "romaji": "kyo",
               "example": "トーキョー",
               "read": "tookyoo",
-              "meaning": "Tokyo"
+              "meaning": "Tokyo",
+              "has_image": false
             },
             {
               "character": "シャ",
               "romaji": "sha",
               "example": "シャワー",
               "read": "shawaa",
-              "meaning": "shower"
+              "meaning": "shower",
+              "has_image": false
             },
             {
               "character": "シュ",
               "romaji": "shu",
               "example": "シューズ",
               "read": "shuuzu",
-              "meaning": "shoes"
+              "meaning": "shoes",
+              "has_image": false
             },
             {
               "character": "ショ",
               "romaji": "sho",
               "example": "ショッピング",
               "read": "shoppingu",
-              "meaning": "shopping"
+              "meaning": "shopping",
+              "has_image": false
             },
             {
               "character": "チャ",
               "romaji": "cha",
               "example": "チャンス",
               "read": "chansu",
-              "meaning": "chance"
+              "meaning": "chance",
+              "has_image": false
             },
             {
               "character": "チュ",
               "romaji": "chu",
               "example": "チューブ",
               "read": "chuubu",
-              "meaning": "tube"
+              "meaning": "tube",
+              "has_image": false
             },
             {
               "character": "チョ",
               "romaji": "cho",
               "example": "チョコ",
               "read": "choko",
-              "meaning": "chocolate"
+              "meaning": "chocolate",
+              "has_image": false
             },
             {
               "character": "ニャ",
               "romaji": "nya",
               "example": "ニャンコ",
               "read": "nyanko",
-              "meaning": "kitty"
+              "meaning": "kitty",
+              "has_image": false
             },
             {
               "character": "ニュ",
               "romaji": "nyu",
               "example": "ニュース",
               "read": "nyuusu",
-              "meaning": "news"
+              "meaning": "news",
+              "has_image": false
             },
             {
               "character": "ニョ",
               "romaji": "nyo",
               "example": "カンニョ",
               "read": "kannyo",
-              "meaning": "nurse (archaic)"
+              "meaning": "nurse (archaic)",
+              "has_image": false
             },
             {
               "character": "ヒャ",
               "romaji": "hya",
               "example": "ヒャッキン",
               "read": "hyakkin",
-              "meaning": "100 yen shop"
+              "meaning": "100 yen shop",
+              "has_image": false
             },
             {
               "character": "ヒュ",
               "romaji": "hyu",
               "example": "ヒューズ",
               "read": "hyuuzu",
-              "meaning": "fuse"
+              "meaning": "fuse",
+              "has_image": false
             },
             {
               "character": "ヒョ",
               "romaji": "hyo",
               "example": "ヒョウ",
               "read": "hyou",
-              "meaning": "leopard"
+              "meaning": "leopard",
+              "has_image": false
             },
             {
               "character": "ミャ",
               "romaji": "mya",
               "example": "ミャンマー",
               "read": "myanmaa",
-              "meaning": "Myanmar"
+              "meaning": "Myanmar",
+              "has_image": false
             },
             {
               "character": "ミュ",
               "romaji": "myu",
               "example": "ミュージック",
               "read": "myuujikku",
-              "meaning": "music"
+              "meaning": "music",
+              "has_image": false
             },
             {
               "character": "ミョ",
               "romaji": "myo",
               "example": "ミョウガ",
               "read": "myouga",
-              "meaning": "ginger"
+              "meaning": "ginger",
+              "has_image": false
             },
             {
               "character": "リャ",
               "romaji": "rya",
               "example": "リャマ",
               "read": "ryama",
-              "meaning": "llama"
+              "meaning": "llama",
+              "has_image": false
             },
             {
               "character": "リュ",
               "romaji": "ryu",
               "example": "リュック",
               "read": "ryukku",
-              "meaning": "backpack"
+              "meaning": "backpack",
+              "has_image": false
             },
             {
               "character": "リョ",
               "romaji": "ryo",
               "example": "リョウリ",
               "read": "ryouri",
-              "meaning": "cooking"
+              "meaning": "cooking",
+              "has_image": false
             },
             {
               "character": "ギャ",
               "romaji": "gya",
               "example": "ギャラリー",
               "read": "gyararii",
-              "meaning": "gallery"
+              "meaning": "gallery",
+              "has_image": false
             },
             {
               "character": "ギュ",
               "romaji": "gyu",
               "example": "ギュウニク",
               "read": "gyuuniku",
-              "meaning": "beef"
+              "meaning": "beef",
+              "has_image": false
             },
             {
               "character": "ギョ",
               "romaji": "gyo",
               "example": "ギョウザ",
               "read": "gyouza",
-              "meaning": "dumplings"
+              "meaning": "dumplings",
+              "has_image": false
             },
             {
               "character": "ジャ",
               "romaji": "ja",
               "example": "ジャケット",
               "read": "jaketto",
-              "meaning": "jacket"
+              "meaning": "jacket",
+              "has_image": false
             },
             {
               "character": "ジュ",
               "romaji": "ju",
               "example": "ジュース",
               "read": "juusu",
-              "meaning": "juice"
+              "meaning": "juice",
+              "has_image": false
             },
             {
               "character": "ジョ",
               "romaji": "jo",
               "example": "ジョギング",
               "read": "jogingu",
-              "meaning": "jogging"
+              "meaning": "jogging",
+              "has_image": false
             },
             {
               "character": "ビャ",
               "romaji": "bya",
               "example": "ビャクヤ",
               "read": "byakuya",
-              "meaning": "white night"
+              "meaning": "white night",
+              "has_image": false
             },
             {
               "character": "ビュ",
               "romaji": "byu",
               "example": "ビュッフェ",
               "read": "byuffe",
-              "meaning": "buffet"
+              "meaning": "buffet",
+              "has_image": false
             },
             {
               "character": "ビョ",
               "romaji": "byo",
               "example": "ビョウイン",
               "read": "byouin",
-              "meaning": "hospital"
+              "meaning": "hospital",
+              "has_image": false
             },
             {
               "character": "ピャ",
               "romaji": "pya",
               "example": "ロッピャク",
               "read": "roppyaku",
-              "meaning": "six hundred"
+              "meaning": "six hundred",
+              "has_image": false
             },
             {
               "character": "ピュ",
               "romaji": "pyu",
               "example": "ピューレ",
               "read": "pyuure",
-              "meaning": "puree"
+              "meaning": "puree",
+              "has_image": false
             },
             {
               "character": "ピョ",
               "romaji": "pyo",
               "example": "ピョンピョン",
               "read": "pyonpyon",
-              "meaning": "hopping"
+              "meaning": "hopping",
+              "has_image": false
             }
           ]
         },
@@ -1648,112 +1856,128 @@
               "romaji": "va",
               "example": "ヴァイオリン",
               "read": "vaiorin",
-              "meaning": "violin"
+              "meaning": "violin",
+              "has_image": false
             },
             {
               "character": "ヴィ",
               "romaji": "vi",
               "example": "ヴィラ",
               "read": "vira",
-              "meaning": "villa"
+              "meaning": "villa",
+              "has_image": false
             },
             {
               "character": "ヴ",
               "romaji": "vu",
               "example": "ヴルカン",
               "read": "vurukan",
-              "meaning": "Vulcan"
+              "meaning": "Vulcan",
+              "has_image": false
             },
             {
               "character": "ヴェ",
               "romaji": "ve",
               "example": "ヴェネツィア",
               "read": "venetsia",
-              "meaning": "Venice"
+              "meaning": "Venice",
+              "has_image": false
             },
             {
               "character": "ヴォ",
               "romaji": "vo",
               "example": "ヴォーカル",
               "read": "vookaru",
-              "meaning": "vocal"
+              "meaning": "vocal",
+              "has_image": false
             },
             {
               "character": "ファ",
               "romaji": "fa",
               "example": "ファン",
               "read": "fan",
-              "meaning": "fan"
+              "meaning": "fan",
+              "has_image": false
             },
             {
               "character": "フィ",
               "romaji": "fi",
               "example": "フィルム",
               "read": "firumu",
-              "meaning": "film"
+              "meaning": "film",
+              "has_image": false
             },
             {
               "character": "フェ",
               "romaji": "fe",
               "example": "カフェ",
               "read": "kafe",
-              "meaning": "cafe"
+              "meaning": "cafe",
+              "has_image": false
             },
             {
               "character": "フォ",
               "romaji": "fo",
               "example": "フォーク",
               "read": "fooku",
-              "meaning": "fork"
+              "meaning": "fork",
+              "has_image": false
             },
             {
               "character": "ティ",
               "romaji": "ti",
               "example": "パーティー",
               "read": "paatii",
-              "meaning": "party"
+              "meaning": "party",
+              "has_image": false
             },
             {
               "character": "ディ",
               "romaji": "di",
               "example": "ディナー",
               "read": "dinaa",
-              "meaning": "dinner"
+              "meaning": "dinner",
+              "has_image": false
             },
             {
               "character": "トゥ",
               "romaji": "tu",
               "example": "トゥデイ",
               "read": "tudei",
-              "meaning": "today"
+              "meaning": "today",
+              "has_image": false
             },
             {
               "character": "ドゥ",
               "romaji": "du",
               "example": "ドゥバイ",
               "read": "dubai",
-              "meaning": "Dubai"
+              "meaning": "Dubai",
+              "has_image": false
             },
             {
               "character": "ウィ",
               "romaji": "wi",
               "example": "ウィンドウ",
               "read": "windou",
-              "meaning": "window"
+              "meaning": "window",
+              "has_image": false
             },
             {
               "character": "ウェ",
               "romaji": "we",
               "example": "ウェブ",
               "read": "webu",
-              "meaning": "web"
+              "meaning": "web",
+              "has_image": false
             },
             {
               "character": "ウォ",
               "romaji": "wo",
               "example": "ウォーター",
               "read": "wootaa",
-              "meaning": "water"
+              "meaning": "water",
+              "has_image": false
             }
           ]
         }
