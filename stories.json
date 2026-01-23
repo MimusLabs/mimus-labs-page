@@ -1,0 +1,75 @@
+[{
+  "title": {
+    "japanese": "ちいさな ねこの はなし",
+    "romaji": "Chiisana Neko no Hanashi",
+    "id": "Cerita Tentang Kucing Kecil",
+    "en": "The Story of a Little Cat"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな ねこが いました。",
+      "romaji": "Aru hi, chiisana neko ga imashita.",
+      "id": "Suatu hari, ada seekor kucing kecil.",
+      "en": "One day, there was a small cat."
+    },
+    {
+      "japanese": "ねこは まいにち そとで あそぶのが すきでした。",
+      "romaji": "Neko wa mainichi soto de asobu no ga suki deshita.",
+      "id": "Kucing itu suka bermain di luar setiap hari.",
+      "en": "The cat liked playing outside every day."
+    },
+    {
+      "japanese": "あるあさ、ねこは たかい きに のぼりました。",
+      "romaji": "Aru asa, neko wa takai ki ni noborimashita.",
+      "id": "Suatu pagi, kucing itu memanjat pohon yang tinggi.",
+      "en": "One morning, the cat climbed a tall tree."
+    },
+    {
+      "japanese": "でも、こわくなって したに おりられません。",
+      "romaji": "Demo, kowaku natte shita ni oriraremasen.",
+      "id": "Namun, ia menjadi takut dan tidak bisa turun.",
+      "en": "But it became scared and couldn’t get down."
+    },
+    {
+      "japanese": "ねこは ふかく いきを して、",
+      "romaji": "Neko wa fukaku iki o shite,",
+      "id": "Kucing itu menarik napas dalam-dalam,",
+      "en": "The cat took a deep breath,"
+    },
+    {
+      "japanese": "「だいじょうぶ、できる」と こころの なかで いいました。",
+      "romaji": "“Daijoubu, dekiru” to kokoro no naka de iimashita.",
+      "id": "dan berkata dalam hatinya, “Tidak apa-apa, aku bisa.”",
+      "en": "and said in its heart, “It’s okay, I can do it.”"
+    },
+    {
+      "japanese": "ゆっくり、いっぽ いっぽ、",
+      "romaji": "Yukkuri, ippo ippo,",
+      "id": "Pelan-pelan, satu langkah demi satu langkah,",
+      "en": "Slowly, step by step,"
+    },
+    {
+      "japanese": "ねこは じぶんで したに おりました。",
+      "romaji": "Neko wa jibun de shita ni orimashita.",
+      "id": "kucing itu turun sendiri.",
+      "en": "the cat climbed down by itself."
+    },
+    {
+      "japanese": "さいごに、ねこは にっこり わらいました。",
+      "romaji": "Saigo ni, neko wa nikkori waraimashita.",
+      "id": "Akhirnya, kucing itu tersenyum.",
+      "en": "In the end, the cat smiled."
+    },
+    {
+      "japanese": "「さいごまで やって よかった」と おもいました。",
+      "romaji": "“Saigo made yatte yokatta” to omoimashita.",
+      "id": "Ia berpikir, “Aku senang sudah menyelesaikannya sampai akhir.”",
+      "en": "It thought, “I’m glad I finished it until the end.”"
+    }
+  ],
+  "moral": {
+    "japanese": "さいごまで がんばる ことは だいじ。",
+    "id": "Menyelesaikan sesuatu sampai akhir itu penting.",
+    "en": "It’s important to keep trying until the end."
+  }
+}]
