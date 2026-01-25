@@ -147,6 +147,303 @@
       "id": "Jika berani melangkah, dunia baru akan terbuka.",
       "en": "When you find the courage, a new world opens."
     }
+  },
+    {
+  "title": {
+    "japanese": "ちいさな とりの はじめての そら",
+    "romaji": "Chiisana Tori no Hajimete no Sora",
+    "id": "Langit Pertama Si Burung Kecil",
+    "en": "The Little Bird’s First Sky"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな とりが すに いました。",
+      "romaji": "Aru hi, chiisana tori ga su ni imashita.",
+      "id": "Suatu hari, ada seekor burung kecil di dalam sarangnya.",
+      "en": "One day, there was a small bird in its nest."
+    },
+    {
+      "japanese": "とりは そらを とぶ ことを ゆめに みて いました。",
+      "romaji": "Tori wa sora o tobu koto o yume ni mite imashita.",
+      "id": "Burung itu bermimpi untuk terbang di langit.",
+      "en": "The bird dreamed of flying in the sky."
+    },
+    {
+      "japanese": "あるあさ、とりは すの そとに でました。",
+      "romaji": "Aru asa, tori wa su no soto ni demashita.",
+      "id": "Suatu pagi, burung itu keluar dari sarangnya.",
+      "en": "One morning, the bird went outside its nest."
+    },
+    {
+      "japanese": "でも、たかくて こわく なりました。",
+      "romaji": "Demo, takakute kowaku narimashita.",
+      "id": "Namun, tempat itu tinggi dan ia menjadi takut.",
+      "en": "But it was high, and the bird became scared."
+    },
+    {
+      "japanese": "とりは つばさを ひろげて、",
+      "romaji": "Tori wa tsubasa o hirogete,",
+      "id": "Burung itu membuka sayapnya,",
+      "en": "The bird spread its wings,"
+    },
+    {
+      "japanese": "「だいじょうぶ」と じぶんに いいました。",
+      "romaji": "“Daijoubu” to jibun ni iimashita.",
+      "id": "dan berkata pada dirinya sendiri, “Tidak apa-apa.”",
+      "en": "and said to itself, “It’s okay.”"
+    },
+    {
+      "japanese": "ゆうきを だして、そらへ とびました。",
+      "romaji": "Yuuki o dashite, sora e tobimashita.",
+      "id": "Dengan berani, ia terbang menuju langit.",
+      "en": "Gathering its courage, it flew into the sky."
+    },
+    {
+      "japanese": "かぜは やさしく からだを ささえました。",
+      "romaji": "Kaze wa yasashiku karada o sasaemashita.",
+      "id": "Angin dengan lembut menopang tubuhnya.",
+      "en": "The wind gently supported its body."
+    },
+    {
+      "japanese": "とりは そらで にっこり わらいました。",
+      "romaji": "Tori wa sora de nikkori waraimashita.",
+      "id": "Burung itu tersenyum di langit.",
+      "en": "The bird smiled in the sky."
+    },
+    {
+      "japanese": "「ゆめは かなう」と こころで かんじました。",
+      "romaji": "“Yume wa kanau” to kokoro de kanjimashita.",
+      "id": "Ia merasa dalam hatinya, “Mimpi bisa terwujud.”",
+      "en": "It felt in its heart, “Dreams can come true.”"
+    }
+  ],
+  "moral": {
+    "japanese": "ゆうきを だせば、あたらしい せかいが ひらける。",
+    "id": "Jika berani melangkah, dunia baru akan terbuka.",
+    "en": "When you find the courage, a new world opens."
   }
+},
+    {
+  "title": {
+    "japanese": "ちいさな こどもと はじめての じてんしゃ",
+    "romaji": "Chiisana Kodomo to Hajimete no Jitensha",
+    "id": "Anak Kecil dan Sepeda Pertamanya",
+    "en": "A Little Child and the First Bicycle"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな こどもが いました。",
+      "romaji": "Aru hi, chiisana kodomo ga imashita.",
+      "id": "Suatu hari, ada seorang anak kecil.",
+      "en": "One day, there was a small child."
+    },
+    {
+      "japanese": "こどもは じてんしゃに のる ことを たのしみに して いました。",
+      "romaji": "Kodomo wa jitensha ni noru koto o tanoshimi ni shite imashita.",
+      "id": "Anak itu sangat menantikan bisa naik sepeda.",
+      "en": "The child was looking forward to riding a bicycle."
+    },
+    {
+      "japanese": "あるあさ、こどもは こうえんへ いきました。",
+      "romaji": "Aru asa, kodomo wa kouen e ikimashita.",
+      "id": "Suatu pagi, anak itu pergi ke taman.",
+      "en": "One morning, the child went to the park."
+    },
+    {
+      "japanese": "でも、なんども ころんで しまいました。",
+      "romaji": "Demo, nando mo koronde shimaimashita.",
+      "id": "Namun, ia terjatuh berkali-kali.",
+      "en": "But the child fell many times."
+    },
+    {
+      "japanese": "こどもは なみだを ふいて、",
+      "romaji": "Kodomo wa namida o fuite,",
+      "id": "Anak itu mengusap air matanya,",
+      "en": "The child wiped away the tears,"
+    },
+    {
+      "japanese": "「だいじょうぶ、もう いちど」と いいました。",
+      "romaji": "“Daijoubu, mou ichido” to iimashita.",
+      "id": "dan berkata, “Tidak apa-apa, sekali lagi.”",
+      "en": "and said, “It’s okay, one more time.”"
+    },
+    {
+      "japanese": "ゆっくり こぎはじめて、",
+      "romaji": "Yukkuri kogihajimete,",
+      "id": "Ia mulai mengayuh perlahan,",
+      "en": "The child started pedaling slowly,"
+    },
+    {
+      "japanese": "ついに ひとりで のれるように なりました。",
+      "romaji": "Tsui ni hitori de noreru you ni narimashita.",
+      "id": "dan akhirnya bisa naik sendiri.",
+      "en": "and finally learned to ride alone."
+    },
+    {
+      "japanese": "こどもは えがおで そらを みました。",
+      "romaji": "Kodomo wa egao de sora o mimashita.",
+      "id": "Anak itu tersenyum sambil melihat langit.",
+      "en": "The child smiled and looked at the sky."
+    },
+    {
+      "japanese": "「あきらめなくて よかった」と おもいました。",
+      "romaji": "“Akiramenakute yokatta” to omoimashita.",
+      "id": "Ia berpikir, “Aku senang tidak menyerah.”",
+      "en": "The child thought, “I’m glad I didn’t give up.”"
+    }
+  ],
+  "moral": {
+    "japanese": "なんど しっぱいしても、あきらめない ことが だいじ。",
+    "id": "Walaupun gagal berkali-kali, tidak menyerah itu penting.",
+    "en": "Even if you fail many times, not giving up is important."
+  }
+},
+{
+  "title": {
+    "japanese": "ちいさな こどもと はじめての はっぴょう",
+    "romaji": "Chiisana Kodomo to Hajimete no Happyou",
+    "id": "Anak Kecil dan Presentasi Pertamanya",
+    "en": "A Little Child and the First Presentation"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな こどもが いました。",
+      "romaji": "Aru hi, chiisana kodomo ga imashita.",
+      "id": "Suatu hari, ada seorang anak kecil.",
+      "en": "One day, there was a small child."
+    },
+    {
+      "japanese": "こどもは みんなの まえで はなすのが にがてでした。",
+      "romaji": "Kodomo wa minna no mae de hanasu no ga nigate deshita.",
+      "id": "Anak itu tidak pandai berbicara di depan orang banyak.",
+      "en": "The child was not good at speaking in front of others."
+    },
+    {
+      "japanese": "がっこうで はっぴょうの ひが きました。",
+      "romaji": "Gakkou de happyou no hi ga kimashita.",
+      "id": "Hari presentasi di sekolah pun tiba.",
+      "en": "Presentation day at school arrived."
+    },
+    {
+      "japanese": "こどもは どきどき しました。",
+      "romaji": "Kodomo wa dokidoki shimashita.",
+      "id": "Anak itu merasa sangat gugup.",
+      "en": "The child felt very nervous."
+    },
+    {
+      "japanese": "でも、ふかく いきを しました。",
+      "romaji": "Demo, fukaku iki o shimashita.",
+      "id": "Namun, ia menarik napas dalam-dalam.",
+      "en": "But the child took a deep breath."
+    },
+    {
+      "japanese": "ゆっくり はなす ことが できました。",
+      "romaji": "Yukkuri hanasu koto ga dekimashita.",
+      "id": "Ia bisa berbicara dengan pelan.",
+      "en": "The child was able to speak slowly."
+    },
+    {
+      "japanese": "はっぴょうが おわると、えがおに なりました。",
+      "romaji": "Happyou ga owaru to, egao ni narimashita.",
+      "id": "Setelah selesai, ia tersenyum.",
+      "en": "After finishing, the child smiled."
+    }
+  ],
+  "moral": {
+    "japanese": "ゆっくりでも、いっぽ ふみだす ことが だいじ。",
+    "id": "Walau pelan, berani melangkah itu penting.",
+    "en": "Even slowly, taking the first step is important."
+  }
+},
+{
+  "title": {
+    "japanese": "ちいさな こどもと まいにちの しゅくだい",
+    "romaji": "Chiisana Kodomo to Mainichi no Shukudai",
+    "id": "Anak Kecil dan PR Setiap Hari",
+    "en": "A Little Child and Daily Homework"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな こどもが いました。",
+      "romaji": "Aru hi, chiisana kodomo ga imashita.",
+      "id": "Suatu hari, ada seorang anak kecil.",
+      "en": "One day, there was a small child."
+    },
+    {
+      "japanese": "こどもは しゅくだいが すこし きらいでした。",
+      "romaji": "Kodomo wa shukudai ga sukoshi kiraideshita.",
+      "id": "Anak itu sedikit tidak suka PR.",
+      "en": "The child disliked homework a little."
+    },
+    {
+      "japanese": "でも、まいにち すこしずつ やる ことに しました。",
+      "romaji": "Demo, mainichi sukoshizutsu yaru koto ni shimashita.",
+      "id": "Namun, ia memutuskan mengerjakannya sedikit demi sedikit setiap hari.",
+      "en": "But the child decided to do a little every day."
+    },
+    {
+      "japanese": "はやく おわる ひも ありました。",
+      "romaji": "Hayaku owaru hi mo arimashita.",
+      "id": "Ada hari-hari PR cepat selesai.",
+      "en": "Some days, the homework finished quickly."
+    },
+    {
+      "japanese": "こどもは じぶんに じしんを もちました。",
+      "romaji": "Kodomo wa jibun ni jishin o mochimashita.",
+      "id": "Anak itu menjadi percaya diri.",
+      "en": "The child became confident."
+    }
+  ],
+  "moral": {
+    "japanese": "まいにち つづける ことが ちからに なる。",
+    "id": "Kebiasaan kecil setiap hari akan menjadi kekuatan.",
+    "en": "Small daily habits become strength."
+  }
+},
+{
+  "title": {
+    "japanese": "ちいさな こどもと しょうじきな こころ",
+    "romaji": "Chiisana Kodomo to Shoujiki na Kokoro",
+    "id": "Anak Kecil dan Hati yang Jujur",
+    "en": "A Little Child and an Honest Heart"
+  },
+  "story": [
+    {
+      "japanese": "あるひ、ちいさな こどもが いました。",
+      "romaji": "Aru hi, chiisana kodomo ga imashita.",
+      "id": "Suatu hari, ada seorang anak kecil.",
+      "en": "One day, there was a small child."
+    },
+    {
+      "japanese": "こどもは あやまって おもちゃを こわしました。",
+      "romaji": "Kodomo wa ayamatte omocha o kowashimashita.",
+      "id": "Anak itu tidak sengaja merusak mainan.",
+      "en": "The child accidentally broke a toy."
+    },
+    {
+      "japanese": "すこし こわく なりました。",
+      "romaji": "Sukoshi kowaku narimashita.",
+      "id": "Ia merasa sedikit takut.",
+      "en": "The child felt a little scared."
+    },
+    {
+      "japanese": "でも、ほんとうの ことを はなしました。",
+      "romaji": "Demo, hontou no koto o hanashimashita.",
+      "id": "Namun, ia berkata jujur.",
+      "en": "But the child told the truth."
+    },
+    {
+      "japanese": "こころは すこし かるく なりました。",
+      "romaji": "Kokoro wa sukoshi karuku narimashita.",
+      "id": "Hatinya menjadi lebih lega.",
+      "en": "The child’s heart felt lighter."
+    }
+  ],
+  "moral": {
+    "japanese": "しょうじきな こころは ひとを つよく する。",
+    "id": "Kejujuran membuat hati menjadi kuat.",
+    "en": "Honesty makes the heart strong."
+  }
+}
   ]
 }
