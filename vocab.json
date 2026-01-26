@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "category_id": 1,
+      "category_name": "Greetings and Expressions",
+      "list": [
+        { "hiragana": "おはよう", "romaji": "ohayou", "english": "Good morning", "indonesian": "Selamat pagi" },
+        { "hiragana": "こんにちは", "romaji": "konnichiwa", "english": "Hello / Good afternoon", "indonesian": "Halo / Selamat siang" },
+        { "hiragana": "こんばんは", "romaji": "konbanwa", "english": "Good evening", "indonesian": "Selamat malam" },
+        { "hiragana": "おやすみ", "romaji": "oyasumi", "english": "Good night", "indonesian": "Selamat tidur" },
+        { "hiragana": "ありがとう", "romaji": "arigatou", "english": "Thank you", "indonesian": "Terima kasih" },
+        { "hiragana": "すみません", "romaji": "sumimasen", "english": "Excuse me / Sorry", "indonesian": "Permisi / Maaf" },
+        { "hiragana": "ごめんなさい", "romaji": "gomennasai", "english": "I'm sorry", "indonesian": "Maaf" },
+        { "hiragana": "はい", "romaji": "hai", "english": "Yes", "indonesian": "Ya" },
+        { "hiragana": "いいえ", "romaji": "iie", "english": "No", "indonesian": "Tidak" },
+        { "hiragana": "おねがい", "romaji": "onegai", "english": "Please", "indonesian": "Tolong" }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Daily Verbs",
+      "list": [
+        { "hiragana": "いきます", "romaji": "ikimasu", "english": "Go", "indonesian": "Pergi" },
+        { "hiragana": "きます", "romaji": "kimasu", "english": "Come", "indonesian": "Datang" },
+        { "hiragana": "かえります", "romaji": "kaerimasu", "english": "Go home", "indonesian": "Pulang" },
+        { "hiragana": "たべます", "romaji": "tabemasu", "english": "Eat", "indonesian": "Makan" },
+        { "hiragana": "のみます", "romaji": "nomimasu", "english": "Drink", "indonesian": "Minum" },
+        { "hiragana": "みます", "romaji": "mimasu", "english": "See / Watch", "indonesian": "Melihat" },
+        { "hiragana": "ききます", "romaji": "kikimasu", "english": "Listen / Ask", "indonesian": "Mendengar" },
+        { "hiragana": "いいます", "romaji": "iimasu", "english": "Say", "indonesian": "Berkata" },
+        { "hiragana": "します", "romaji": "shimasu", "english": "Do", "indonesian": "Melakukan" },
+        { "hiragana": "わかりました", "romaji": "wakarimashita", "english": "I understand", "indonesian": "Saya mengerti" }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Adjectives and States",
+      "list": [
+        { "hiragana": "だいじょうぶ", "romaji": "daijoubu", "english": "It's okay", "indonesian": "Tidak apa-apa" },
+        { "hiragana": "すき", "romaji": "suki", "english": "Like", "indonesian": "Suka" },
+        { "hiragana": "きらい", "romaji": "kirai", "english": "Dislike", "indonesian": "Tidak suka" },
+        { "hiragana": "たのしい", "romaji": "tanoshii", "english": "Fun", "indonesian": "Menyenangkan" },
+        { "hiragana": "いそがしい", "romaji": "isogashii", "english": "Busy", "indonesian": "Sibuk" },
+        { "hiragana": "ひま", "romaji": "hima", "english": "Free", "indonesian": "Senggang" },
+        { "hiragana": "おおきい", "romaji": "ookii", "english": "Big", "indonesian": "Besar" },
+        { "hiragana": "ちいさい", "romaji": "chiisai", "english": "Small", "indonesian": "Kecil" },
+        { "hiragana": "たかい", "romaji": "takai", "english": "Expensive / Tall", "indonesian": "Mahal / Tinggi" },
+        { "hiragana": "やすい", "romaji": "yasui", "english": "Cheap", "indonesian": "Murah" }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category_name": "Time and Place",
+      "list": [
+        { "hiragana": "きょう", "romaji": "kyou", "english": "Today", "indonesian": "Hari ini" },
+        { "hiragana": "あした", "romaji": "ashita", "english": "Tomorrow", "indonesian": "Besok" },
+        { "hiragana": "きのう", "romaji": "kinou", "english": "Yesterday", "indonesian": "Kemarin" },
+        { "hiragana": "いま", "romaji": "ima", "english": "Now", "indonesian": "Sekarang" },
+        { "hiragana": "ここ", "romaji": "koko", "english": "Here", "indonesian": "Di sini" },
+        { "hiragana": "そこ", "romaji": "soko", "english": "There", "indonesian": "Di situ" },
+        { "hiragana": "あそこ", "romaji": "asoko", "english": "Over there", "indonesian": "Di sana" }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Questions and Others",
+      "list": [
+        { "hiragana": "なに", "romaji": "nani", "english": "What", "indonesian": "Apa" },
+        { "hiragana": "だれ", "romaji": "dare", "english": "Who", "indonesian": "Siapa" },
+        { "hiragana": "どこ", "romaji": "doko", "english": "Where", "indonesian": "Di mana" },
+        { "hiragana": "いつ", "romaji": "itsu", "english": "When", "indonesian": "Kapan" },
+        { "hiragana": "どう", "romaji": "dou", "english": "How", "indonesian": "Bagaimana" },
+        { "hiragana": "いくら", "romaji": "ikura", "english": "How much", "indonesian": "Berapa harga" },
+        { "hiragana": "ほんとう", "romaji": "hontou", "english": "Really", "indonesian": "Benarkah" },
+        { "hiragana": "ちょっと", "romaji": "chotto", "english": "A little / Wait", "indonesian": "Sedikit / Tunggu" },
+        { "hiragana": "あります", "romaji": "arimasu", "english": "There is (thing)", "indonesian": "Ada (benda)" },
+        { "hiragana": "います", "romaji": "imasu", "english": "There is (person)", "indonesian": "Ada (orang)" }
+      ]
+    }
+  ]
+}
