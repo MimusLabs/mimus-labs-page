@@ -1,0 +1,82 @@
+{
+"data":[
+{
+  "level": "JLPT N5",
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Numbers",
+      "list": [
+        { "kanji": "一", "hiragana": "いち", "romaji": "ichi", "bahasa": "satu", "english": "one" },
+        { "kanji": "二", "hiragana": "に", "romaji": "ni", "bahasa": "dua", "english": "two" },
+        { "kanji": "三", "hiragana": "さん", "romaji": "san", "bahasa": "tiga", "english": "three" },
+        { "kanji": "四", "hiragana": "よん / し", "romaji": "yon / shi", "bahasa": "empat", "english": "four" },
+        { "kanji": "五", "hiragana": "ご", "romaji": "go", "bahasa": "lima", "english": "five" },
+        { "kanji": "六", "hiragana": "ろく", "romaji": "roku", "bahasa": "enam", "english": "six" },
+        { "kanji": "七", "hiragana": "なな / しち", "romaji": "nana / shichi", "bahasa": "tujuh", "english": "seven" },
+        { "kanji": "八", "hiragana": "はち", "romaji": "hachi", "bahasa": "delapan", "english": "eight" },
+        { "kanji": "九", "hiragana": "きゅう", "romaji": "kyuu", "bahasa": "sembilan", "english": "nine" },
+        { "kanji": "十", "hiragana": "じゅう", "romaji": "juu", "bahasa": "sepuluh", "english": "ten" }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "People & Directions",
+      "list": [
+        { "kanji": "人", "hiragana": "ひと", "romaji": "hito", "bahasa": "orang", "english": "person" },
+        { "kanji": "男", "hiragana": "おとこ", "romaji": "otoko", "bahasa": "laki-laki", "english": "man" },
+        { "kanji": "女", "hiragana": "おんな", "romaji": "onna", "bahasa": "perempuan", "english": "woman" },
+        { "kanji": "子", "hiragana": "こ", "romaji": "ko", "bahasa": "anak", "english": "child" },
+        { "kanji": "上", "hiragana": "うえ", "romaji": "ue", "bahasa": "atas", "english": "up" },
+        { "kanji": "下", "hiragana": "した", "romaji": "shita", "bahasa": "bawah", "english": "down" },
+        { "kanji": "中", "hiragana": "なか", "romaji": "naka", "bahasa": "tengah", "english": "middle" },
+        { "kanji": "外", "hiragana": "そと", "romaji": "soto", "bahasa": "luar", "english": "outside" }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Nature & Places",
+      "list": [
+        { "kanji": "山", "hiragana": "やま", "romaji": "yama", "bahasa": "gunung", "english": "mountain" },
+        { "kanji": "川", "hiragana": "かわ", "romaji": "kawa", "bahasa": "sungai", "english": "river" },
+        { "kanji": "田", "hiragana": "た", "romaji": "ta", "bahasa": "sawah", "english": "rice field" },
+        { "kanji": "天", "hiragana": "てん", "romaji": "ten", "bahasa": "langit", "english": "heaven" },
+        { "kanji": "空", "hiragana": "そら", "romaji": "sora", "bahasa": "langit", "english": "sky" },
+        { "kanji": "雨", "hiragana": "あめ", "romaji": "ame", "bahasa": "hujan", "english": "rain" },
+        { "kanji": "火", "hiragana": "ひ", "romaji": "hi", "bahasa": "api", "english": "fire" },
+        { "kanji": "水", "hiragana": "みず", "romaji": "mizu", "bahasa": "air", "english": "water" },
+        { "kanji": "木", "hiragana": "き", "romaji": "ki", "bahasa": "pohon", "english": "tree" },
+        { "kanji": "土", "hiragana": "つち", "romaji": "tsuchi", "bahasa": "tanah", "english": "soil" }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category_name": "Time",
+      "list": [
+        { "kanji": "日", "hiragana": "ひ", "romaji": "hi", "bahasa": "hari", "english": "day" },
+        { "kanji": "月", "hiragana": "つき", "romaji": "tsuki", "bahasa": "bulan", "english": "month/moon" },
+        { "kanji": "年", "hiragana": "とし", "romaji": "toshi", "bahasa": "tahun", "english": "year" },
+        { "kanji": "今", "hiragana": "いま", "romaji": "ima", "bahasa": "sekarang", "english": "now" },
+        { "kanji": "時", "hiragana": "とき", "romaji": "toki", "bahasa": "waktu", "english": "time" }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Verbs",
+      "list": [
+        { "kanji": "行", "hiragana": "いく", "romaji": "iku", "bahasa": "pergi", "english": "go" },
+        { "kanji": "来", "hiragana": "くる", "romaji": "kuru", "bahasa": "datang", "english": "come" },
+        { "kanji": "見", "hiragana": "みる", "romaji": "miru", "bahasa": "melihat", "english": "see" },
+        { "kanji": "聞", "hiragana": "きく", "romaji": "kiku", "bahasa": "mendengar", "english": "hear" },
+        { "kanji": "話", "hiragana": "はなす", "romaji": "hanasu", "bahasa": "berbicara", "english": "speak" },
+        { "kanji": "食", "hiragana": "たべる", "romaji": "taberu", "bahasa": "makan", "english": "eat" },
+        { "kanji": "飲", "hiragana": "のむ", "romaji": "nomu", "bahasa": "minum", "english": "drink" },
+        { "kanji": "書", "hiragana": "かく", "romaji": "kaku", "bahasa": "menulis", "english": "write" },
+        { "kanji": "読", "hiragana": "よむ", "romaji": "yomu", "bahasa": "membaca", "english": "read" },
+        { "kanji": "休", "hiragana": "やすむ", "romaji": "yasumu", "bahasa": "istirahat", "english": "rest" }
+      ]
+    }
+  ]
+}
+]
+}
